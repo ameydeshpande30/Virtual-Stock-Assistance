@@ -1,55 +1,45 @@
-import Quandl, math
-import numpy as np
+from flask import jsonify
+import requests,json
+
+#import matplotlib.pyplot as plt
+#from matplotlib import style
+from datetime import datetime
+from flask import Flask
 import pandas as pd
-from sklearn import preprocessing, cross_validation, svm
-from sklearn.linear_model import LinearRegression
-import matplotlib.pyplot as plt
-from matplotlib import style
-import datetime
+from statsmodels.tsa.arima_model import ARIMAResults
+app = Flask(__name__)
+resNflx = ARIMAResults.load('models/ntflx_sarima.pkl')
+@app.route("/<string:name>/")
+def index(name):
+    if name == "ntflx":
+        date = datetime.today().strftime('%Y-%m-%d')
+        pred = resNflx.get_prediction(end=pd.to_datetime(date),dynamic=False)
+        ans = pred.predicted_mean[-1]
+        c = pred.predicted_mean[-2]
+        pre = pred.predicted_mean[-3]
+        return jsonify(
+            prev = pre,
+            curr = c,
+            fd = ans
+        )
 
-style.use('ggplot')
+def json_list(list):
+    lst = []
+    for pn in list:
+        d = {}
+        d['mpn']=pn
+        lst.append(d)
+    return json.dumps(lst)
 
-df = Quandl.get("WIKI/GOOGL")
-df = df[['Adj. Open',  'Adj. High',  'Adj. Low',  'Adj. Close', 'Adj. Volume']]
-df['HL_PCT'] = (df['Adj. High'] - df['Adj. Low']) / df['Adj. Close'] * 100.0
-df['PCT_change'] = (df['Adj. Close'] - df['Adj. Open']) / df['Adj. Open'] * 100.0
+@app.route("/noun/<string:statement>/")
+def state(statement):
+	url = 'https://api.aylien.com/api/v1/elsa'
+	payload = {'text': 'i like to buy google stock'}	
+	headers = {'X-AYLIEN-TextAPI-Application-Key': '3f5f0bc779ca61a2801894707ee82e08', 'X-AYLIEN-TextAPI-Application-ID': 'f91c6ba2', 'Content-Type': 'application/json'}
+ 
+	r = requests.post(url, data=json.dumps(payload), headers=headers)
+	print(r)
+	return (r.json)
 
-df = df[['Adj. Close', 'HL_PCT', 'PCT_change', 'Adj. Volume']]
-forecast_col = 'Adj. Close'
-df.fillna(value=-99999, inplace=True)
-forecast_out = int(math.ceil(0.01 * len(df)))
-df['label'] = df[forecast_col].shift(-forecast_out)
-
-X = np.array(df.drop(['label'], 1))
-X = preprocessing.scale(X)
-X_lately = X[-forecast_out:]
-X = X[:-forecast_out]
-
-df.dropna(inplace=True)
-
-y = np.array(df['label'])
-
-X_train, X_test, y_train, y_test = cross_validation.train_test_split(X, y, test_size=0.2)
-clf = LinearRegression(n_jobs=-1)
-clf.fit(X_train, y_train)
-confidence = clf.score(X_test, y_test)
-
-forecast_set = clf.predict(X_lately)
-df['Forecast'] = np.nan
-
-last_date = df.iloc[-1].name
-last_unix = last_date.timestamp()
-one_day = 86400
-next_unix = last_unix + one_day
-
-for i in forecast_set:
-    next_date = datetime.datetime.fromtimestamp(next_unix)
-    next_unix += 86400
-    df.loc[next_date] = [np.nan for _ in range(len(df.columns)-1)]+[i]
-
-df['Adj. Close'].plot()
-df['Forecast'].plot()
-plt.legend(loc=4)
-plt.xlabel('Date')
-plt.ylabel('Price')
-plt.show()
+if __name__ == "__main__":
+    app.run(host = '0.0.0.0', port = 5000, debug = True)
