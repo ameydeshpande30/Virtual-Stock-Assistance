@@ -9,19 +9,25 @@ import pandas as pd
 from statsmodels.tsa.arima_model import ARIMAResults
 app = Flask(__name__)
 resNflx = ARIMAResults.load('models/ntflx_sarima.pkl')
+resAMZ = ARIMAResults.load('models/amz_sarima.pkl')
+resGOOGL = ARIMAResults.load('models/googl_sarima.pkl')
 @app.route("/<string:name>/")
 def index(name):
+    date = datetime.today().strftime('%Y-%m-%d')
     if name == "ntflx":
-        date = datetime.today().strftime('%Y-%m-%d')
         pred = resNflx.get_prediction(end=pd.to_datetime(date),dynamic=False)
-        ans = pred.predicted_mean[-1]
-        c = pred.predicted_mean[-2]
-        pre = pred.predicted_mean[-3]
-        return jsonify(
-            prev = pre,
-            curr = c,
-            fd = ans
-        )
+    elif name == "amazon":
+        pred = resAMZ.get_prediction(end=pd.to_datetime(date),dynamic=False)
+    else:
+        pred = resGOOGL.get_prediction(end=pd.to_datetime(date),dynamic=False)
+    ans = pred.predicted_mean[-1]
+    c = pred.predicted_mean[-2]
+    pre = pred.predicted_mean[-3]
+    return jsonify(
+        prev = pre,
+        curr = c,
+        fd = ans
+    )
 
 def json_list(list):
     lst = []
