@@ -7,10 +7,14 @@ from datetime import datetime
 from flask import Flask
 import pandas as pd
 from statsmodels.tsa.arima_model import ARIMAResults
+
+
 app = Flask(__name__)
-resNflx = ARIMAResults.load('models/ntflx_sarima.pkl')
-resAMZ = ARIMAResults.load('models/amz_sarima.pkl')
-resGOOGL = ARIMAResults.load('models/googl_sarima.pkl')
+
+resNflx = ARIMAResults.load('./models/ntflx_sarima.pkl')
+resAMZ = ARIMAResults.load('./models/amzn_sarima.pkl')
+resGOOGL = ARIMAResults.load('./models/google_sarima.pkl')
+
 @app.route("/<string:name>/")
 def index(name):
     date = datetime.today().strftime('%Y-%m-%d')
@@ -40,9 +44,9 @@ def json_list(list):
 @app.route("/noun/<string:statement>/")
 def state(statement):
 	url = 'https://api.aylien.com/api/v1/elsa'
-	payload = {'text': 'i like to buy google stock'}	
+	payload = {'text': 'i like to buy google stock'}
 	headers = {'X-AYLIEN-TextAPI-Application-Key': '3f5f0bc779ca61a2801894707ee82e08', 'X-AYLIEN-TextAPI-Application-ID': 'f91c6ba2', 'Content-Type': 'application/json'}
- 
+
 	r = requests.post(url, data=json.dumps(payload), headers=headers)
 	print(r)
 	return (r.json)
