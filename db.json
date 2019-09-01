@@ -1,0 +1,6872 @@
+[
+    {
+        "actSymbol": "A",
+        "securityName": "Agilent Technologies, Inc. Common Stock",
+        "exchange": "N",
+        "cqsSymbol": "A",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "A"
+    },
+    {
+        "actSymbol": "AA",
+        "securityName": "Alcoa Corporation Common Stock ",
+        "exchange": "N",
+        "cqsSymbol": "AA",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "AA"
+    },
+    {
+        "actSymbol": "AAAU",
+        "securityName": "Perth Mint Physical Gold ETF",
+        "exchange": "P",
+        "cqsSymbol": "AAAU",
+        "etf": "Y",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "AAAU"
+    },
+    {
+        "symbol": "AABA",
+        "securityName": "Altaba Inc. - Common Stock",
+        "marketCategory": "Q",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "actSymbol": "AAC",
+        "securityName": "AAC Holdings, Inc. Common Stock",
+        "exchange": "N",
+        "cqsSymbol": "AAC",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "AAC"
+    },
+    {
+        "actSymbol": "AADR",
+        "securityName": "AdvisorShares Dorsey Wright ADR ETF",
+        "exchange": "P",
+        "cqsSymbol": "AADR",
+        "etf": "Y",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "AADR"
+    },
+    {
+        "symbol": "AAL",
+        "securityName": "American Airlines Group, Inc. - Common Stock",
+        "marketCategory": "Q",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "actSymbol": "AAMC",
+        "securityName": "Altisource Asset Management Corp Com",
+        "exchange": "A",
+        "cqsSymbol": "AAMC",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "AAMC"
+    },
+    {
+        "symbol": "AAME",
+        "securityName": "Atlantic American Corporation - Common Stock",
+        "marketCategory": "G",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "actSymbol": "AAN",
+        "securityName": "Aaron's, Inc. Common Stock",
+        "exchange": "N",
+        "cqsSymbol": "AAN",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "AAN"
+    },
+    {
+        "symbol": "AAOI",
+        "securityName": "Applied Optoelectronics, Inc. - Common Stock",
+        "marketCategory": "G",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "symbol": "AAON",
+        "securityName": "AAON, Inc. - Common Stock",
+        "marketCategory": "Q",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "actSymbol": "AAP",
+        "securityName": "Advance Auto Parts Inc Advance Auto Parts Inc W/I",
+        "exchange": "N",
+        "cqsSymbol": "AAP",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "AAP"
+    },
+    {
+        "symbol": "AAPL",
+        "securityName": "Apple Inc. - Common Stock",
+        "marketCategory": "Q",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "actSymbol": "AAT",
+        "securityName": "American Assets Trust, Inc. Common Stock",
+        "exchange": "N",
+        "cqsSymbol": "AAT",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "AAT"
+    },
+    {
+        "actSymbol": "AAU",
+        "securityName": "Almaden Minerals, Ltd. Common Shares",
+        "exchange": "A",
+        "cqsSymbol": "AAU",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "AAU"
+    },
+    {
+        "symbol": "AAWW",
+        "securityName": "Atlas Air Worldwide Holdings - Common Stock",
+        "marketCategory": "Q",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "symbol": "AAXJ",
+        "securityName": "iShares MSCI All Country Asia ex Japan Index Fund",
+        "marketCategory": "G",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "Y",
+        "nextShares": "N"
+    },
+    {
+        "symbol": "AAXN",
+        "securityName": "Axon Enterprise, Inc. - Common Stock",
+        "marketCategory": "Q",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "actSymbol": "AB",
+        "securityName": "AllianceBernstein Holding L.P.  Units",
+        "exchange": "N",
+        "cqsSymbol": "AB",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "AB"
+    },
+    {
+        "actSymbol": "ABB",
+        "securityName": "ABB Ltd Common Stock",
+        "exchange": "N",
+        "cqsSymbol": "ABB",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "ABB"
+    },
+    {
+        "actSymbol": "ABBV",
+        "securityName": "AbbVie Inc. Common Stock",
+        "exchange": "N",
+        "cqsSymbol": "ABBV",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "ABBV"
+    },
+    {
+        "actSymbol": "ABC",
+        "securityName": "AmerisourceBergen Corporation Common Stock",
+        "exchange": "N",
+        "cqsSymbol": "ABC",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "ABC"
+    },
+    {
+        "symbol": "ABCB",
+        "securityName": "Ameris Bancorp - Common Stock",
+        "marketCategory": "Q",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "symbol": "ABDC",
+        "securityName": "Alcentra Capital Corp. - Common Stock",
+        "marketCategory": "Q",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "symbol": "ABEO",
+        "securityName": "Abeona Therapeutics Inc. - Common Stock",
+        "marketCategory": "S",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "symbol": "ABEOW",
+        "securityName": "Abeona Therapeutics Inc. - Warrant",
+        "marketCategory": "S",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "actSymbol": "ABEV",
+        "securityName": "Ambev S.A. American Depositary Shares (Each representing 1 Common Share)",
+        "exchange": "N",
+        "cqsSymbol": "ABEV",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "ABEV"
+    },
+    {
+        "actSymbol": "ABG",
+        "securityName": "Asbury Automotive Group Inc Common Stock",
+        "exchange": "N",
+        "cqsSymbol": "ABG",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "ABG"
+    },
+    {
+        "symbol": "ABIL",
+        "securityName": "Ability Inc. - Ordinary Shares",
+        "marketCategory": "S",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "symbol": "ABIO",
+        "securityName": "ARCA biopharma, Inc. - Common Stock",
+        "marketCategory": "S",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "actSymbol": "ABM",
+        "securityName": "ABM Industries Incorporated Common Stock",
+        "exchange": "N",
+        "cqsSymbol": "ABM",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "ABM"
+    },
+    {
+        "symbol": "ABMD",
+        "securityName": "ABIOMED, Inc. - Common Stock",
+        "marketCategory": "Q",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "actSymbol": "ABR",
+        "securityName": "Arbor Realty Trust Common Stock",
+        "exchange": "N",
+        "cqsSymbol": "ABR",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "ABR"
+    },
+    {
+        "actSymbol": "ABR$A",
+        "securityName": "Arbor Realty Trust Preferred Series A",
+        "exchange": "N",
+        "cqsSymbol": "ABRpA",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "ABR-A"
+    },
+    {
+        "actSymbol": "ABR$B",
+        "securityName": "Arbor Realty Trust Cumulative Redeemable Preferred Series B",
+        "exchange": "N",
+        "cqsSymbol": "ABRpB",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "ABR-B"
+    },
+    {
+        "actSymbol": "ABR$C",
+        "securityName": "Arbor Realty Trust Cumulative Redeemable Preferred Series C",
+        "exchange": "N",
+        "cqsSymbol": "ABRpC",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "ABR-C"
+    },
+    {
+        "actSymbol": "ABT",
+        "securityName": "Abbott Laboratories Common Stock",
+        "exchange": "N",
+        "cqsSymbol": "ABT",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "ABT"
+    },
+    {
+        "symbol": "ABTX",
+        "securityName": "Allegiance Bancshares, Inc. - Common Stock",
+        "marketCategory": "G",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "symbol": "ABUS",
+        "securityName": "Arbutus Biopharma Corporation - Common Stock",
+        "marketCategory": "Q",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "actSymbol": "AC",
+        "securityName": "Associated Capital Group, Inc. Common Stock",
+        "exchange": "N",
+        "cqsSymbol": "AC",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "AC"
+    },
+    {
+        "actSymbol": "ACA",
+        "securityName": "Arcosa, Inc. Common Stock ",
+        "exchange": "N",
+        "cqsSymbol": "ACA",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "ACA"
+    },
+    {
+        "symbol": "ACAD",
+        "securityName": "ACADIA Pharmaceuticals Inc. - Common Stock",
+        "marketCategory": "Q",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "symbol": "ACAM",
+        "securityName": "Acamar Partners Acquisition Corp. - Class A Common Stock",
+        "marketCategory": "S",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "symbol": "ACAMU",
+        "securityName": "Acamar Partners Acquisition Corp. - Units",
+        "marketCategory": "S",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "symbol": "ACAMW",
+        "securityName": "Acamar Partners Acquisition Corp. - Warrant",
+        "marketCategory": "S",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "actSymbol": "ACB",
+        "securityName": "Aurora Cannabis Inc. Common Shares",
+        "exchange": "N",
+        "cqsSymbol": "ACB",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "ACB"
+    },
+    {
+        "symbol": "ACBI",
+        "securityName": "Atlantic Capital Bancshares, Inc. - Common Stock",
+        "marketCategory": "Q",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "actSymbol": "ACC",
+        "securityName": "American Campus Communities Inc Common Stock",
+        "exchange": "N",
+        "cqsSymbol": "ACC",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "ACC"
+    },
+    {
+        "actSymbol": "ACCO",
+        "securityName": "Acco Brands Corporation Common Stock",
+        "exchange": "N",
+        "cqsSymbol": "ACCO",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "ACCO"
+    },
+    {
+        "symbol": "ACER",
+        "securityName": "Acer Therapeutics Inc. - Common Stock",
+        "marketCategory": "S",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "actSymbol": "ACES",
+        "securityName": "ALPS Clean Energy ETF",
+        "exchange": "Z",
+        "cqsSymbol": "ACES",
+        "etf": "Y",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "ACES"
+    },
+    {
+        "symbol": "ACGL",
+        "securityName": "Arch Capital Group Ltd. - Common Stock",
+        "marketCategory": "Q",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "symbol": "ACGLO",
+        "securityName": "Arch Capital Group Ltd. - Depositary Shares Each Representing 1/1,000th Interest in a Share of5.45% Non-Cumulative Preferred Shares, Series F",
+        "marketCategory": "Q",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "symbol": "ACGLP",
+        "securityName": "Arch Capital Group Ltd. - Depositary Shares Representing Interest in 5.25% Non-Cumulative Preferred Series E Shrs",
+        "marketCategory": "Q",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "actSymbol": "ACH",
+        "securityName": "Aluminum Corporation of China Limited American Depositary Shares",
+        "exchange": "N",
+        "cqsSymbol": "ACH",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "ACH"
+    },
+    {
+        "symbol": "ACHC",
+        "securityName": "Acadia Healthcare Company, Inc. - Common Stock",
+        "marketCategory": "Q",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "symbol": "ACHN",
+        "securityName": "Achillion Pharmaceuticals, Inc. - Common Stock",
+        "marketCategory": "Q",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "symbol": "ACHV",
+        "securityName": "Achieve Life Sciences, Inc.  - Common Shares",
+        "marketCategory": "S",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "symbol": "ACIA",
+        "securityName": "Acacia Communications, Inc. - Common Stock",
+        "marketCategory": "Q",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "actSymbol": "ACIM",
+        "securityName": "SPDR MSCI ACWI IMI ETF",
+        "exchange": "P",
+        "cqsSymbol": "ACIM",
+        "etf": "Y",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "ACIM"
+    },
+    {
+        "symbol": "ACIU",
+        "securityName": "AC Immune SA - Common Stock",
+        "marketCategory": "G",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "symbol": "ACIW",
+        "securityName": "ACI Worldwide, Inc. - Common Stock",
+        "marketCategory": "Q",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "symbol": "ACLS",
+        "securityName": "Axcelis Technologies, Inc. - Common Stock",
+        "marketCategory": "Q",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "actSymbol": "ACM",
+        "securityName": "AECOM Common Stock",
+        "exchange": "N",
+        "cqsSymbol": "ACM",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "ACM"
+    },
+    {
+        "symbol": "ACMR",
+        "securityName": "ACM Research, Inc. - Class A Common Stock",
+        "marketCategory": "G",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "actSymbol": "ACN",
+        "securityName": "Accenture plc Class A Ordinary Shares (Ireland)",
+        "exchange": "N",
+        "cqsSymbol": "ACN",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "ACN"
+    },
+    {
+        "symbol": "ACNB",
+        "securityName": "ACNB Corporation - Common Stock",
+        "marketCategory": "S",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "symbol": "ACOR",
+        "securityName": "Acorda Therapeutics, Inc. - Common Stock",
+        "marketCategory": "Q",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "actSymbol": "ACP",
+        "securityName": "Aberdeen Income Credit Strategies Fund Common Shares",
+        "exchange": "N",
+        "cqsSymbol": "ACP",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "ACP"
+    },
+    {
+        "actSymbol": "ACRE",
+        "securityName": "Ares Commercial Real Estate Corporation Common Stock",
+        "exchange": "N",
+        "cqsSymbol": "ACRE",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "ACRE"
+    },
+    {
+        "symbol": "ACRS",
+        "securityName": "Aclaris Therapeutics, Inc. - Common Stock",
+        "marketCategory": "Q",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "symbol": "ACRX",
+        "securityName": "AcelRx Pharmaceuticals, Inc. - Common Stock",
+        "marketCategory": "G",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "actSymbol": "ACSG",
+        "securityName": "Xtrackers MSCI ACWI ex USA ESG Leaders Equity ETF",
+        "exchange": "P",
+        "cqsSymbol": "ACSG",
+        "etf": "Y",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "ACSG"
+    },
+    {
+        "actSymbol": "ACSI",
+        "securityName": "American Customer Satisfaction ETF",
+        "exchange": "Z",
+        "cqsSymbol": "ACSI",
+        "etf": "Y",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "ACSI"
+    },
+    {
+        "symbol": "ACST",
+        "securityName": "Acasti Pharma, Inc. - Class A Common Stock",
+        "marketCategory": "S",
+        "testIssue": "N",
+        "financialStatus": "D",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "symbol": "ACT",
+        "securityName": "AdvisorShares Vice ETF",
+        "marketCategory": "G",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "Y",
+        "nextShares": "N"
+    },
+    {
+        "symbol": "ACTG",
+        "securityName": "Acacia Research Corporation - Common Stock",
+        "marketCategory": "Q",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "symbol": "ACTT",
+        "securityName": "Act II Global Acquisition Corp. - Class A Ordinary Shares",
+        "marketCategory": "S",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "symbol": "ACTTU",
+        "securityName": "Act II Global Acquisition Corp. - Unit",
+        "marketCategory": "S",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "symbol": "ACTTW",
+        "securityName": "Act II Global Acquisition Corp. - Warrant",
+        "marketCategory": "S",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "actSymbol": "ACU",
+        "securityName": "Acme United Corporation. Common Stock",
+        "exchange": "A",
+        "cqsSymbol": "ACU",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "ACU"
+    },
+    {
+        "actSymbol": "ACV",
+        "securityName": "AllianzGI Diversified Income & Convertible Fund Common Shares of Beneficial Interest",
+        "exchange": "N",
+        "cqsSymbol": "ACV",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "ACV"
+    },
+    {
+        "actSymbol": "ACWF",
+        "securityName": "iShares Edge MSCI Multifactor Global ETF",
+        "exchange": "P",
+        "cqsSymbol": "ACWF",
+        "etf": "Y",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "ACWF"
+    },
+    {
+        "symbol": "ACWI",
+        "securityName": "iShares MSCI ACWI Index Fund",
+        "marketCategory": "G",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "Y",
+        "nextShares": "N"
+    },
+    {
+        "actSymbol": "ACWV",
+        "securityName": "iShares Edge MSCI Min Vol Global ETF",
+        "exchange": "Z",
+        "cqsSymbol": "ACWV",
+        "etf": "Y",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "ACWV"
+    },
+    {
+        "symbol": "ACWX",
+        "securityName": "iShares MSCI ACWI ex US Index Fund",
+        "marketCategory": "G",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "Y",
+        "nextShares": "N"
+    },
+    {
+        "actSymbol": "ACY",
+        "securityName": "AeroCentury Corp. Common Stock",
+        "exchange": "A",
+        "cqsSymbol": "ACY",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "ACY"
+    },
+    {
+        "symbol": "ADAP",
+        "securityName": "Adaptimmune Therapeutics plc - American Depositary Shares",
+        "marketCategory": "Q",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "symbol": "ADBE",
+        "securityName": "Adobe Inc. - Common Stock",
+        "marketCategory": "Q",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "actSymbol": "ADC",
+        "securityName": "Agree Realty Corporation Common Stock",
+        "exchange": "N",
+        "cqsSymbol": "ADC",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "ADC"
+    },
+    {
+        "symbol": "ADES",
+        "securityName": "Advanced Emissions Solutions, Inc. - Common Stock",
+        "marketCategory": "G",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "symbol": "ADI",
+        "securityName": "Analog Devices, Inc. - Common Stock",
+        "marketCategory": "Q",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "symbol": "ADIL",
+        "securityName": "Adial Pharmaceuticals, Inc - Common Stock",
+        "marketCategory": "S",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "symbol": "ADILW",
+        "securityName": "Adial Pharmaceuticals, Inc - Warrant",
+        "marketCategory": "S",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "actSymbol": "ADM",
+        "securityName": "Archer-Daniels-Midland Company Common Stock",
+        "exchange": "N",
+        "cqsSymbol": "ADM",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "ADM"
+    },
+    {
+        "symbol": "ADMA",
+        "securityName": "ADMA Biologics Inc - Common Stock",
+        "marketCategory": "S",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "symbol": "ADMP",
+        "securityName": "Adamis Pharmaceuticals Corporation - Common Stock",
+        "marketCategory": "S",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "symbol": "ADMS",
+        "securityName": "Adamas Pharmaceuticals, Inc. - Common Stock",
+        "marketCategory": "G",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "actSymbol": "ADNT",
+        "securityName": "Adient plc Ordinary Shares ",
+        "exchange": "N",
+        "cqsSymbol": "ADNT",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "ADNT"
+    },
+    {
+        "symbol": "ADOM",
+        "securityName": "ADOMANI, Inc. - Common Stock",
+        "marketCategory": "S",
+        "testIssue": "N",
+        "financialStatus": "D",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "symbol": "ADP",
+        "securityName": "Automatic Data Processing, Inc. - Common Stock",
+        "marketCategory": "Q",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "symbol": "ADRA",
+        "securityName": "Invesco BLDRS Asia 50 ADR Index Fund",
+        "marketCategory": "G",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "Y",
+        "nextShares": "N"
+    },
+    {
+        "symbol": "ADRD",
+        "securityName": "Invesco BLDRS Developed Markets 100 ADR Index Fund",
+        "marketCategory": "G",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "Y",
+        "nextShares": "N"
+    },
+    {
+        "symbol": "ADRE",
+        "securityName": "Invesco BLDRS Emerging Markets 50 ADR Index Fund",
+        "marketCategory": "G",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "Y",
+        "nextShares": "N"
+    },
+    {
+        "symbol": "ADRO",
+        "securityName": "Aduro Biotech, Inc. - Common Stock",
+        "marketCategory": "Q",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "symbol": "ADRU",
+        "securityName": "Invesco BLDRS Europe Select ADR Index Fund",
+        "marketCategory": "G",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "Y",
+        "nextShares": "N"
+    },
+    {
+        "actSymbol": "ADS",
+        "securityName": "Alliance Data Systems Corporation Common Stock",
+        "exchange": "N",
+        "cqsSymbol": "ADS",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "ADS"
+    },
+    {
+        "symbol": "ADSK",
+        "securityName": "Autodesk, Inc. - Common Stock",
+        "marketCategory": "Q",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "actSymbol": "ADSW",
+        "securityName": "Advanced Disposal Services, Inc. Common Stock",
+        "exchange": "N",
+        "cqsSymbol": "ADSW",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "ADSW"
+    },
+    {
+        "actSymbol": "ADT",
+        "securityName": "ADT Inc. Common Stock",
+        "exchange": "N",
+        "cqsSymbol": "ADT",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "ADT"
+    },
+    {
+        "symbol": "ADTN",
+        "securityName": "ADTRAN, Inc. - Common Stock",
+        "marketCategory": "Q",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "symbol": "ADUS",
+        "securityName": "Addus HomeCare Corporation - Common Stock",
+        "marketCategory": "Q",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "symbol": "ADVM",
+        "securityName": "Adverum Biotechnologies, Inc. - Common Stock",
+        "marketCategory": "G",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "actSymbol": "ADX",
+        "securityName": "Adams Diversified Equity Fund Inc.",
+        "exchange": "N",
+        "cqsSymbol": "ADX",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "ADX"
+    },
+    {
+        "symbol": "ADXS",
+        "securityName": "Advaxis, Inc. - Common Stock",
+        "marketCategory": "Q",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "actSymbol": "AE",
+        "securityName": "Adams Resources & Energy, Inc. Common Stock",
+        "exchange": "A",
+        "cqsSymbol": "AE",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "AE"
+    },
+    {
+        "actSymbol": "AEB",
+        "securityName": "AEGON N.V. Perp. Cap. Secs. Floating Rate (Netherlands)",
+        "exchange": "N",
+        "cqsSymbol": "AEB",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "AEB"
+    },
+    {
+        "actSymbol": "AEE",
+        "securityName": "Ameren Corporation Common Stock",
+        "exchange": "N",
+        "cqsSymbol": "AEE",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "AEE"
+    },
+    {
+        "actSymbol": "AEF",
+        "securityName": "Aberdeen Emerging Markets Equity Income Fund, Inc. Common Stock",
+        "exchange": "A",
+        "cqsSymbol": "AEF",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "AEF"
+    },
+    {
+        "actSymbol": "AEG",
+        "securityName": "AEGON N.V. Common Stock",
+        "exchange": "N",
+        "cqsSymbol": "AEG",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "AEG"
+    },
+    {
+        "symbol": "AEGN",
+        "securityName": "Aegion Corp - Class A Common Stock",
+        "marketCategory": "Q",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "actSymbol": "AEH",
+        "securityName": "AEGON N.V. Perp. Cap Secs.",
+        "exchange": "N",
+        "cqsSymbol": "AEH",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "AEH"
+    },
+    {
+        "symbol": "AEHR",
+        "securityName": "Aehr Test Systems - Common Stock",
+        "marketCategory": "S",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "symbol": "AEIS",
+        "securityName": "Advanced Energy Industries, Inc. - Common Stock",
+        "marketCategory": "Q",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "actSymbol": "AEL",
+        "securityName": "American Equity Investment Life Holding Company Common Stock",
+        "exchange": "N",
+        "cqsSymbol": "AEL",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "AEL"
+    },
+    {
+        "actSymbol": "AEM",
+        "securityName": "Agnico Eagle Mines Limited Common Stock",
+        "exchange": "N",
+        "cqsSymbol": "AEM",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "AEM"
+    },
+    {
+        "symbol": "AEMD",
+        "securityName": "Aethlon Medical, Inc. - Common Stock",
+        "marketCategory": "S",
+        "testIssue": "N",
+        "financialStatus": "D",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "actSymbol": "AEO",
+        "securityName": "American Eagle Outfitters, Inc. Common Stock",
+        "exchange": "N",
+        "cqsSymbol": "AEO",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "AEO"
+    },
+    {
+        "actSymbol": "AEP",
+        "securityName": "American Electric Power Company, Inc. Common Stock",
+        "exchange": "N",
+        "cqsSymbol": "AEP",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "AEP"
+    },
+    {
+        "actSymbol": "AEP$B",
+        "securityName": "American Electric Power Company, Inc. Corporate Unit",
+        "exchange": "N",
+        "cqsSymbol": "AEPpB",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "AEP-B"
+    },
+    {
+        "actSymbol": "AER",
+        "securityName": "AerCap Holdings N.V. Ordinary Shares",
+        "exchange": "N",
+        "cqsSymbol": "AER",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "AER"
+    },
+    {
+        "symbol": "AERI",
+        "securityName": "Aerie Pharmaceuticals, Inc. - Common Stock",
+        "marketCategory": "G",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "actSymbol": "AES",
+        "securityName": "The AES Corporation Common Stock",
+        "exchange": "N",
+        "cqsSymbol": "AES",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "AES"
+    },
+    {
+        "symbol": "AETI",
+        "securityName": "American Electric Technologies, Inc. - Common Stock",
+        "marketCategory": "S",
+        "testIssue": "N",
+        "financialStatus": "D",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "symbol": "AEY",
+        "securityName": "ADDvantage Technologies Group, Inc. - Common Stock",
+        "marketCategory": "G",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "symbol": "AEYE",
+        "securityName": "AudioEye, Inc. - Common Stock",
+        "marketCategory": "S",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "symbol": "AEZS",
+        "securityName": "Aeterna Zentaris Inc. - Common Stock",
+        "marketCategory": "S",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "actSymbol": "AFB",
+        "securityName": "AllianceBernstein National Municipal Income Fund Inc",
+        "exchange": "N",
+        "cqsSymbol": "AFB",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "AFB"
+    },
+    {
+        "actSymbol": "AFC",
+        "securityName": "Allied Capital Corporation Allied Capital Corporation 6.875% Notes due April 15, 2047",
+        "exchange": "N",
+        "cqsSymbol": "AFC",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "AFC"
+    },
+    {
+        "actSymbol": "AFG",
+        "securityName": "American Financial Group, Inc. Common Stock",
+        "exchange": "N",
+        "cqsSymbol": "AFG",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "AFG"
+    },
+    {
+        "actSymbol": "AFGB",
+        "securityName": "American Financial Group, Inc. 5.875% Subordinated Debentures due 2059",
+        "exchange": "N",
+        "cqsSymbol": "AFGB",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "AFGB"
+    },
+    {
+        "actSymbol": "AFGE",
+        "securityName": "American Financial Group, Inc. 6.25% Subordinated Debentures due 2054",
+        "exchange": "N",
+        "cqsSymbol": "AFGE",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "AFGE"
+    },
+    {
+        "actSymbol": "AFGH",
+        "securityName": "American Financial Group, Inc. 6% Subordinated Debentures due 2055",
+        "exchange": "N",
+        "cqsSymbol": "AFGH",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "AFGH"
+    },
+    {
+        "symbol": "AFH",
+        "securityName": "Atlas Financial Holdings, Inc. - Ordinary Shares",
+        "marketCategory": "G",
+        "testIssue": "N",
+        "financialStatus": "H",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "symbol": "AFHBL",
+        "securityName": "Atlas Financial Holdings, Inc. - 6.625% Senior Unsecured Notes Due 2022",
+        "marketCategory": "G",
+        "testIssue": "N",
+        "financialStatus": "E",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "actSymbol": "AFI",
+        "securityName": "Armstrong Flooring, Inc. Common Stock",
+        "exchange": "N",
+        "cqsSymbol": "AFI",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "AFI"
+    },
+    {
+        "actSymbol": "AFIF",
+        "securityName": "Anfield Universal Fixed Income ETF",
+        "exchange": "Z",
+        "cqsSymbol": "AFIF",
+        "etf": "Y",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "AFIF"
+    },
+    {
+        "symbol": "AFIN",
+        "securityName": "American Finance Trust, Inc. - Class A Common Stock",
+        "marketCategory": "Q",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "symbol": "AFINP",
+        "securityName": "American Finance Trust, Inc. - 7.50% Series A Cumulative Redeemable Perpetual Preferred Stock",
+        "marketCategory": "Q",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "actSymbol": "AFK",
+        "securityName": "VanEck Vectors-Africa Index ETF",
+        "exchange": "P",
+        "cqsSymbol": "AFK",
+        "etf": "Y",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "AFK"
+    },
+    {
+        "actSymbol": "AFL",
+        "securityName": "AFLAC Incorporated Common Stock",
+        "exchange": "N",
+        "cqsSymbol": "AFL",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "AFL"
+    },
+    {
+        "symbol": "AFMD",
+        "securityName": "Affimed N.V. - Common Stock",
+        "marketCategory": "G",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "actSymbol": "AFT",
+        "securityName": "Apollo Senior Floating Rate Fund Inc. Common Stock",
+        "exchange": "N",
+        "cqsSymbol": "AFT",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "AFT"
+    },
+    {
+        "actSymbol": "AFTY",
+        "securityName": "CSOP FTSE China A50 ETF",
+        "exchange": "P",
+        "cqsSymbol": "AFTY",
+        "etf": "Y",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "AFTY"
+    },
+    {
+        "actSymbol": "AG",
+        "securityName": "First Majestic Silver Corp. Ordinary Shares (Canada)",
+        "exchange": "N",
+        "cqsSymbol": "AG",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "AG"
+    },
+    {
+        "symbol": "AGBAU",
+        "securityName": "AGBA Acquisition Limited - Unit",
+        "marketCategory": "S",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "actSymbol": "AGCO",
+        "securityName": "AGCO Corporation Common Stock",
+        "exchange": "N",
+        "cqsSymbol": "AGCO",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "AGCO"
+    },
+    {
+        "actSymbol": "AGD",
+        "securityName": "Aberdeen Global Dynamic Dividend Fund",
+        "exchange": "N",
+        "cqsSymbol": "AGD",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "AGD"
+    },
+    {
+        "actSymbol": "AGE",
+        "securityName": "AgeX Therapeutics, Inc. Common Stock",
+        "exchange": "A",
+        "cqsSymbol": "AGE",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "AGE"
+    },
+    {
+        "symbol": "AGEN",
+        "securityName": "Agenus Inc. - Common Stock",
+        "marketCategory": "S",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "symbol": "AGFS",
+        "securityName": "AgroFresh Solutions, Inc. - Common Stock",
+        "marketCategory": "Q",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "symbol": "AGFSW",
+        "securityName": "AgroFresh Solutions, Inc. - Warrants",
+        "marketCategory": "Q",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "actSymbol": "AGG",
+        "securityName": "iShares Core U.S. Aggregate Bond ETF",
+        "exchange": "P",
+        "cqsSymbol": "AGG",
+        "etf": "Y",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "AGG"
+    },
+    {
+        "actSymbol": "AGGE",
+        "securityName": "IQ Enhanced Core Bond U.S. ETF",
+        "exchange": "P",
+        "cqsSymbol": "AGGE",
+        "etf": "Y",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "AGGE"
+    },
+    {
+        "actSymbol": "AGGP",
+        "securityName": "IQ Enhanced Core Plus Bond U.S. ETF",
+        "exchange": "P",
+        "cqsSymbol": "AGGP",
+        "etf": "Y",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "AGGP"
+    },
+    {
+        "actSymbol": "AGGY",
+        "securityName": "WisdomTree Yield Enhanced U.S. Aggregate Bond Fund",
+        "exchange": "P",
+        "cqsSymbol": "AGGY",
+        "etf": "Y",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "AGGY"
+    },
+    {
+        "actSymbol": "AGI",
+        "securityName": "Alamos Gold Inc. Class A Common Shares",
+        "exchange": "N",
+        "cqsSymbol": "AGI",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "AGI"
+    },
+    {
+        "symbol": "AGIO",
+        "securityName": "Agios Pharmaceuticals, Inc. - Common Stock",
+        "marketCategory": "Q",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "symbol": "AGLE",
+        "securityName": "Aeglea BioTherapeutics, Inc. - Common Stock",
+        "marketCategory": "G",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "actSymbol": "AGM",
+        "securityName": "Federal Agricultural Mortgage Corporation Common Stock",
+        "exchange": "N",
+        "cqsSymbol": "AGM",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "AGM"
+    },
+    {
+        "actSymbol": "AGM$A",
+        "securityName": "Federal Agricultural Mortgage Corporation 5.875% Non-CUmulative Preferred Stock, Series A",
+        "exchange": "N",
+        "cqsSymbol": "AGMpA",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "AGM-A"
+    },
+    {
+        "actSymbol": "AGM$C",
+        "securityName": "Federal Agricultural Mortgage Corporation Preferred Series C Fixed to Fltg",
+        "exchange": "N",
+        "cqsSymbol": "AGMpC",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "AGM-C"
+    },
+    {
+        "actSymbol": "AGM$D",
+        "securityName": "Federal Agricultural Mortgage Corporation 5.700% Non-Cumulative Preferred Stock, Series D",
+        "exchange": "N",
+        "cqsSymbol": "AGMpD",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "AGM-D"
+    },
+    {
+        "actSymbol": "AGM.A",
+        "securityName": "Federal Agricultural Mortgage Corporation Common Stock",
+        "exchange": "N",
+        "cqsSymbol": "AGM.A",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "AGM.A"
+    },
+    {
+        "symbol": "AGMH",
+        "securityName": "AGM Group Holdings Inc. - Class A Ordinary Shares",
+        "marketCategory": "S",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "actSymbol": "AGN",
+        "securityName": "Allergan plc Ordinary Shares",
+        "exchange": "N",
+        "cqsSymbol": "AGN",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "AGN"
+    },
+    {
+        "symbol": "AGNC",
+        "securityName": "AGNC Investment Corp. - Common Stock",
+        "marketCategory": "Q",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "symbol": "AGNCB",
+        "securityName": "AGNC Investment Corp. - Depositary Shares representing 1/1000th Series B Preferred Stock",
+        "marketCategory": "Q",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "symbol": "AGNCM",
+        "securityName": "AGNC Investment Corp. - Depositary Shares rep 6.875% Series D Fixed-to-Floating Cumulative Redeemable Preferred Stock",
+        "marketCategory": "Q",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "symbol": "AGNCN",
+        "securityName": "AGNC Investment Corp. - Depositary Shares Each Representing a 1/1,000th Interest in a Share of 7.00% Series C Fixed-To-Floating Rate Cumulative Redeemable Preferred Stock",
+        "marketCategory": "Q",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "symbol": "AGND",
+        "securityName": "WisdomTree Barclays Negative Duration U.S. Aggregate Bond Fund",
+        "marketCategory": "G",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "Y",
+        "nextShares": "N"
+    },
+    {
+        "symbol": "GOOGL",
+        "securityName": "GOOGLE",
+        "marketCategory": "G",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "Y",
+        "nextShares": "N"
+    },
+    {
+        "actSymbol": "AGO",
+        "securityName": "Assured Guaranty Ltd. Common Stock",
+        "exchange": "N",
+        "cqsSymbol": "AGO",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "AGO"
+    },
+    {
+        "actSymbol": "AGO$B",
+        "securityName": "Assured Guaranty Ltd.",
+        "exchange": "N",
+        "cqsSymbol": "AGOpB",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "AGO-B"
+    },
+    {
+        "actSymbol": "AGO$E",
+        "securityName": "Assured Guaranty Ltd.",
+        "exchange": "N",
+        "cqsSymbol": "AGOpE",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "AGO-E"
+    },
+    {
+        "actSymbol": "AGO$F",
+        "securityName": "Assured Guaranty Ltd.",
+        "exchange": "N",
+        "cqsSymbol": "AGOpF",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "AGO-F"
+    },
+    {
+        "actSymbol": "AGQ",
+        "securityName": "ProShares Ultra Silver",
+        "exchange": "P",
+        "cqsSymbol": "AGQ",
+        "etf": "Y",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "AGQ"
+    },
+    {
+        "actSymbol": "AGR",
+        "securityName": "Avangrid, Inc. Common Stock",
+        "exchange": "N",
+        "cqsSymbol": "AGR",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "AGR"
+    },
+    {
+        "actSymbol": "AGRO",
+        "securityName": "Adecoagro S.A. Common Shares",
+        "exchange": "N",
+        "cqsSymbol": "AGRO",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "AGRO"
+    },
+    {
+        "symbol": "AGRX",
+        "securityName": "Agile Therapeutics, Inc. - Common Stock",
+        "marketCategory": "S",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "actSymbol": "AGS",
+        "securityName": "PlayAGS, Inc. Common Stock",
+        "exchange": "N",
+        "cqsSymbol": "AGS",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "AGS"
+    },
+    {
+        "actSymbol": "AGT",
+        "securityName": "iShares MSCI Argentina and Global Exposure ETF",
+        "exchange": "Z",
+        "cqsSymbol": "AGT",
+        "etf": "Y",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "AGT"
+    },
+    {
+        "symbol": "AGTC",
+        "securityName": "Applied Genetic Technologies Corporation - Common Stock",
+        "marketCategory": "G",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "actSymbol": "AGX",
+        "securityName": "Argan, Inc. Common Stock",
+        "exchange": "N",
+        "cqsSymbol": "AGX",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "AGX"
+    },
+    {
+        "symbol": "AGYS",
+        "securityName": "Agilysys, Inc. - Common Stock",
+        "marketCategory": "Q",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "actSymbol": "AGZ",
+        "securityName": "iShares  Agency Bond ETF",
+        "exchange": "P",
+        "cqsSymbol": "AGZ",
+        "etf": "Y",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "AGZ"
+    },
+    {
+        "symbol": "AGZD",
+        "securityName": "WisdomTree Interest Rate Hedged U.S. Aggregate Bond Fund",
+        "marketCategory": "G",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "Y",
+        "nextShares": "N"
+    },
+    {
+        "actSymbol": "AHC",
+        "securityName": "A.H. Belo Corporation (TX) Common Stock",
+        "exchange": "N",
+        "cqsSymbol": "AHC",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "AHC"
+    },
+    {
+        "actSymbol": "AHH",
+        "securityName": "Armada Hoffler Properties, Inc. Common Stock",
+        "exchange": "N",
+        "cqsSymbol": "AHH",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "AHH"
+    },
+    {
+        "actSymbol": "AHH$A",
+        "securityName": "Armada Hoffler Properties, Inc. 6.75% Series A Cumulative Redeemable Perpetual Preferred Stock",
+        "exchange": "N",
+        "cqsSymbol": "AHHpA",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "AHH-A"
+    },
+    {
+        "actSymbol": "AHL$C",
+        "securityName": "Aspen Insurance Holdings Limited 5.95% Fixed-to-Floating Rate Perpetual Non-Cumulative Preference Shares",
+        "exchange": "N",
+        "cqsSymbol": "AHLpC",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "AHL-C"
+    },
+    {
+        "actSymbol": "AHL$D",
+        "securityName": "Aspen Insurance Holdings Limited 5.625% Perpetual Non-Cumulative Preference Shares",
+        "exchange": "N",
+        "cqsSymbol": "AHLpD",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "AHL-D"
+    },
+    {
+        "symbol": "AHPI",
+        "securityName": "Allied Healthcare Products, Inc. - Common Stock",
+        "marketCategory": "S",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "actSymbol": "AHT",
+        "securityName": "Ashford Hospitality Trust Inc Common Stock",
+        "exchange": "N",
+        "cqsSymbol": "AHT",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "AHT"
+    },
+    {
+        "actSymbol": "AHT$D",
+        "securityName": "Ashford Hospitality Trust Inc 8.45% Series D Cumulative Preferred Stock",
+        "exchange": "N",
+        "cqsSymbol": "AHTpD",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "AHT-D"
+    },
+    {
+        "actSymbol": "AHT$F",
+        "securityName": "Ashford Hospitality Trust Inc 7.375% Series F Cumulative Preferred Stock",
+        "exchange": "N",
+        "cqsSymbol": "AHTpF",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "AHT-F"
+    },
+    {
+        "actSymbol": "AHT$G",
+        "securityName": "Ashford Hospitality Trust Inc 7.375% Series G Cumulative Preferred Stock",
+        "exchange": "N",
+        "cqsSymbol": "AHTpG",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "AHT-G"
+    },
+    {
+        "actSymbol": "AHT$H",
+        "securityName": "Ashford Hospitality Trust Inc 7.50% Series H Cumulative Preferred Stock",
+        "exchange": "N",
+        "cqsSymbol": "AHTpH",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "AHT-H"
+    },
+    {
+        "actSymbol": "AHT$I",
+        "securityName": "Ashford Hospitality Trust Inc 7.50% Series I Cumulative Preferred Stock",
+        "exchange": "N",
+        "cqsSymbol": "AHTpI",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "AHT-I"
+    },
+    {
+        "actSymbol": "AI",
+        "securityName": "Arlington Asset Investment Corp Class A (new)",
+        "exchange": "N",
+        "cqsSymbol": "AI",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "AI"
+    },
+    {
+        "actSymbol": "AI$B",
+        "securityName": "Arlington Asset Investment Corp 7.00% Series B Cumulative Perpetual Redeemable Preferred Stock",
+        "exchange": "N",
+        "cqsSymbol": "AIpB",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "AI-B"
+    },
+    {
+        "actSymbol": "AI$C",
+        "securityName": "Arlington Asset Investment Corp 8.250% Series C Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock",
+        "exchange": "N",
+        "cqsSymbol": "AIpC",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "AI-C"
+    },
+    {
+        "symbol": "AIA",
+        "securityName": "iShares Asia 50 ETF",
+        "marketCategory": "G",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "Y",
+        "nextShares": "N"
+    },
+    {
+        "actSymbol": "AIC",
+        "securityName": "Arlington Asset Investment Corp 6.750% Notes due 2025",
+        "exchange": "N",
+        "cqsSymbol": "AIC",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "AIC"
+    },
+    {
+        "actSymbol": "AIEQ",
+        "securityName": "AI Powered Equity ETF",
+        "exchange": "P",
+        "cqsSymbol": "AIEQ",
+        "etf": "Y",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "AIEQ"
+    },
+    {
+        "actSymbol": "AIF",
+        "securityName": "Apollo Tactical Income Fund Inc. Common Stock",
+        "exchange": "N",
+        "cqsSymbol": "AIF",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "AIF"
+    },
+    {
+        "actSymbol": "AIG",
+        "securityName": "American International Group, Inc. New Common Stock",
+        "exchange": "N",
+        "cqsSymbol": "AIG",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "AIG"
+    },
+    {
+        "actSymbol": "AIG.W",
+        "securityName": "American International Group, Inc. Warrant expiring January 19, 2021",
+        "exchange": "N",
+        "cqsSymbol": "AIG.WS",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "AIG+"
+    },
+    {
+        "actSymbol": "AIG$A",
+        "securityName": "American International Group, Inc. Depositary Shares Each Representing a 1/1,000th Interest in a Share of Series A 5.85% Non-Cumulative Perpetual Preferred Stock",
+        "exchange": "N",
+        "cqsSymbol": "AIGpA",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "AIG-A"
+    },
+    {
+        "symbol": "AIHS",
+        "securityName": "Senmiao Technology Limited - Common Stock",
+        "marketCategory": "S",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "actSymbol": "AIIQ",
+        "securityName": "AI Powered International Equity ETF",
+        "exchange": "P",
+        "cqsSymbol": "AIIQ",
+        "etf": "Y",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "AIIQ"
+    },
+    {
+        "symbol": "AIMC",
+        "securityName": "Altra Industrial Motion Corp. - Common Stock",
+        "marketCategory": "Q",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "symbol": "AIMT",
+        "securityName": "Aimmune Therapeutics, Inc. - Common Stock",
+        "marketCategory": "Q",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "actSymbol": "AIN",
+        "securityName": "Albany International Corporation Common Stock",
+        "exchange": "N",
+        "cqsSymbol": "AIN",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "AIN"
+    },
+    {
+        "actSymbol": "AINC",
+        "securityName": "Ashford Inc. (Holding Company) Common Stock",
+        "exchange": "A",
+        "cqsSymbol": "AINC",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "AINC"
+    },
+    {
+        "symbol": "AINV",
+        "securityName": "Apollo Investment Corporation - Closed End Fund",
+        "marketCategory": "Q",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "symbol": "AIQ",
+        "securityName": "Global X Future Analytics Tech ETF",
+        "marketCategory": "G",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "Y",
+        "nextShares": "N"
+    },
+    {
+        "actSymbol": "AIR",
+        "securityName": "AAR Corp. Common Stock",
+        "exchange": "N",
+        "cqsSymbol": "AIR",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "AIR"
+    },
+    {
+        "symbol": "AIRG",
+        "securityName": "Airgain, Inc. - Common Stock",
+        "marketCategory": "S",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "actSymbol": "AIRI",
+        "securityName": "Air Industries Group Common Stock",
+        "exchange": "A",
+        "cqsSymbol": "AIRI",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "AIRI"
+    },
+    {
+        "symbol": "AIRR",
+        "securityName": "First Trust RBA American Industrial Renaissance ETF",
+        "marketCategory": "G",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "Y",
+        "nextShares": "N"
+    },
+    {
+        "symbol": "AIRT",
+        "securityName": "Air T, Inc. - Common Stock",
+        "marketCategory": "G",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "symbol": "AIRTP",
+        "securityName": "Air T, Inc. - Air T Funding Trust Preferred Securities",
+        "marketCategory": "G",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "symbol": "AIRTW",
+        "securityName": "Air T, Inc. - Air T Funding Warrants to Purchase Trust Preferred",
+        "marketCategory": "G",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "actSymbol": "AIT",
+        "securityName": "Applied Industrial Technologies, Inc. Common Stock",
+        "exchange": "N",
+        "cqsSymbol": "AIT",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "AIT"
+    },
+    {
+        "symbol": "AITB",
+        "securityName": "AIT Therapeutics, Inc. - Common Stock",
+        "marketCategory": "S",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "actSymbol": "AIV",
+        "securityName": "Apartment Investment and Management Company Common Stock",
+        "exchange": "N",
+        "cqsSymbol": "AIV",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "AIV"
+    },
+    {
+        "actSymbol": "AIW",
+        "securityName": "Arlington Asset Investment Corp 6.625% Notes due 2023",
+        "exchange": "N",
+        "cqsSymbol": "AIW",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "AIW"
+    },
+    {
+        "actSymbol": "AIY",
+        "securityName": "Apollo Investment Corporation 6.875% Senior Notes due 2043",
+        "exchange": "N",
+        "cqsSymbol": "AIY",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "AIY"
+    },
+    {
+        "actSymbol": "AIZ",
+        "securityName": "Assurant, Inc. Common Stock",
+        "exchange": "N",
+        "cqsSymbol": "AIZ",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "AIZ"
+    },
+    {
+        "actSymbol": "AIZP",
+        "securityName": "Assurant, Inc. 6.50% Series D Mandatory Convertible Preferred Stock, $1.00 par value",
+        "exchange": "N",
+        "cqsSymbol": "AIZP",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "AIZP"
+    },
+    {
+        "actSymbol": "AJG",
+        "securityName": "Arthur J. Gallagher & Co. Common Stock",
+        "exchange": "N",
+        "cqsSymbol": "AJG",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "AJG"
+    },
+    {
+        "actSymbol": "AJRD",
+        "securityName": "Aerojet Rocketdyne Holdings, Inc. Common Stock",
+        "exchange": "N",
+        "cqsSymbol": "AJRD",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "AJRD"
+    },
+    {
+        "actSymbol": "AJX",
+        "securityName": "Great Ajax Corp. Common Stock",
+        "exchange": "N",
+        "cqsSymbol": "AJX",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "AJX"
+    },
+    {
+        "actSymbol": "AJXA",
+        "securityName": "Great Ajax Corp. 7.25% Convertible Senior Notes due 2024",
+        "exchange": "N",
+        "cqsSymbol": "AJXA",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "AJXA"
+    },
+    {
+        "symbol": "AKAM",
+        "securityName": "Akamai Technologies, Inc. - Common Stock",
+        "marketCategory": "Q",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "symbol": "AKBA",
+        "securityName": "Akebia Therapeutics, Inc. - Common Stock",
+        "marketCategory": "G",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "symbol": "AKCA",
+        "securityName": "Akcea Therapeutics, Inc. - Common Stock",
+        "marketCategory": "Q",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "symbol": "AKER",
+        "securityName": "Akers Biosciences Inc. - Common Stock",
+        "marketCategory": "S",
+        "testIssue": "N",
+        "financialStatus": "D",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "actSymbol": "AKG",
+        "securityName": "Asanko Gold Inc.",
+        "exchange": "A",
+        "cqsSymbol": "AKG",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "AKG"
+    },
+    {
+        "actSymbol": "AKO.A",
+        "securityName": "Embotelladora Andina S.A. Common Stock",
+        "exchange": "N",
+        "cqsSymbol": "AKO.A",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "AKO.A"
+    },
+    {
+        "actSymbol": "AKO.B",
+        "securityName": "Embotelladora Andina S.A. Common Stock",
+        "exchange": "N",
+        "cqsSymbol": "AKO.B",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "AKO.B"
+    },
+    {
+        "actSymbol": "AKR",
+        "securityName": "Acadia Realty Trust Common Stock",
+        "exchange": "N",
+        "cqsSymbol": "AKR",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "AKR"
+    },
+    {
+        "symbol": "AKRO",
+        "securityName": "Akero Therapeutics, Inc. - Common Stock",
+        "marketCategory": "Q",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "symbol": "AKRX",
+        "securityName": "Akorn, Inc. - Common Stock",
+        "marketCategory": "Q",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "actSymbol": "AKS",
+        "securityName": "AK Steel Holding Corporation Common Stock",
+        "exchange": "N",
+        "cqsSymbol": "AKS",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "AKS"
+    },
+    {
+        "symbol": "AKTS",
+        "securityName": "Akoustis Technologies, Inc. - Common Stock",
+        "marketCategory": "S",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "symbol": "AKTX",
+        "securityName": "Akari Therapeutics Plc - American Depositary Shares",
+        "marketCategory": "S",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "actSymbol": "AL",
+        "securityName": "Air Lease Corporation Class A Common Stock",
+        "exchange": "N",
+        "cqsSymbol": "AL",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "AL"
+    },
+    {
+        "actSymbol": "AL$A",
+        "securityName": "Air Lease Corporation 6.150% Fixed-to-Floating Rate Non-Cumulative Perpetual Preferred Stock, Series A",
+        "exchange": "N",
+        "cqsSymbol": "ALpA",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "AL-A"
+    },
+    {
+        "symbol": "ALAC",
+        "securityName": "Alberton Acquisition Corporation - Ordinary Shares",
+        "marketCategory": "S",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "symbol": "ALACR",
+        "securityName": "Alberton Acquisition Corporation - Rights",
+        "marketCategory": "S",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "symbol": "ALACU",
+        "securityName": "Alberton Acquisition Corporation - Unit",
+        "marketCategory": "S",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "symbol": "ALACW",
+        "securityName": "Alberton Acquisition Corporation - Warrant",
+        "marketCategory": "S",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "actSymbol": "ALB",
+        "securityName": "Albemarle Corporation Common Stock",
+        "exchange": "N",
+        "cqsSymbol": "ALB",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "ALB"
+    },
+    {
+        "symbol": "ALBO",
+        "securityName": "Albireo Pharma, Inc. - Common Stock",
+        "marketCategory": "S",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "actSymbol": "ALC",
+        "securityName": "Alcon Inc. Ordinary Shares",
+        "exchange": "N",
+        "cqsSymbol": "ALC",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "ALC"
+    },
+    {
+        "symbol": "ALCO",
+        "securityName": "Alico, Inc. - Common Stock",
+        "marketCategory": "Q",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "symbol": "ALDR",
+        "securityName": "Alder BioPharmaceuticals, Inc. - Common Stock",
+        "marketCategory": "G",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "symbol": "ALDX",
+        "securityName": "Aldeyra Therapeutics, Inc. - Common Stock",
+        "marketCategory": "S",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "actSymbol": "ALE",
+        "securityName": "Allete, Inc.",
+        "exchange": "N",
+        "cqsSymbol": "ALE",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "ALE"
+    },
+    {
+        "symbol": "ALEC",
+        "securityName": "Alector, Inc. - Common Stock",
+        "marketCategory": "Q",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "actSymbol": "ALEX",
+        "securityName": "Alexander & Baldwin, Inc. Common Stock REIT Holding Company",
+        "exchange": "N",
+        "cqsSymbol": "ALEX",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "ALEX"
+    },
+    {
+        "actSymbol": "ALFA",
+        "securityName": "AlphaClone Alternative Alpha ETF",
+        "exchange": "Z",
+        "cqsSymbol": "ALFA",
+        "etf": "Y",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "ALFA"
+    },
+    {
+        "actSymbol": "ALG",
+        "securityName": "Alamo Group, Inc. Common Stock",
+        "exchange": "N",
+        "cqsSymbol": "ALG",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "ALG"
+    },
+    {
+        "symbol": "ALGN",
+        "securityName": "Align Technology, Inc. - Common Stock",
+        "marketCategory": "Q",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "symbol": "ALGR",
+        "securityName": "Allegro Merger Corp. - Common Stock",
+        "marketCategory": "S",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "symbol": "ALGRR",
+        "securityName": "Allegro Merger Corp. - Right",
+        "marketCategory": "S",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "symbol": "ALGRU",
+        "securityName": "Allegro Merger Corp. - Unit",
+        "marketCategory": "S",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "symbol": "ALGRW",
+        "securityName": "Allegro Merger Corp. - Warrant",
+        "marketCategory": "S",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "symbol": "ALGT",
+        "securityName": "Allegiant Travel Company - Common Stock",
+        "marketCategory": "Q",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "symbol": "ALIM",
+        "securityName": "Alimera Sciences, Inc. - Common Stock",
+        "marketCategory": "G",
+        "testIssue": "N",
+        "financialStatus": "D",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "symbol": "ALJJ",
+        "securityName": "ALJ Regional Holdings, Inc. - Common Stock",
+        "marketCategory": "G",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "actSymbol": "ALK",
+        "securityName": "Alaska Air Group, Inc. Common Stock",
+        "exchange": "N",
+        "cqsSymbol": "ALK",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "ALK"
+    },
+    {
+        "symbol": "ALKS",
+        "securityName": "Alkermes plc - Ordinary Shares",
+        "marketCategory": "Q",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "actSymbol": "ALL",
+        "securityName": "Allstate Corporation (The) Common Stock",
+        "exchange": "N",
+        "cqsSymbol": "ALL",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "ALL"
+    },
+    {
+        "actSymbol": "ALL$A",
+        "securityName": "Allstate Corporation (The) Dep Shs Repstg 1/1000th Perp Pfd Ser A",
+        "exchange": "N",
+        "cqsSymbol": "ALLpA",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "ALL-A"
+    },
+    {
+        "actSymbol": "ALL$B",
+        "securityName": "Allstate Corporation (The) 5.100% Fixed-to-Floating Rate Subordinated Debentures due 2053",
+        "exchange": "N",
+        "cqsSymbol": "ALLpB",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "ALL-B"
+    },
+    {
+        "actSymbol": "ALL$D",
+        "securityName": "The Allstate Corporation Leopards Each Representing A 1/1000th Interest In A Share Of Fixed Rate Noncumulative Perpetual Preferred Stock Series D",
+        "exchange": "N",
+        "cqsSymbol": "ALLpD",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "ALL-D"
+    },
+    {
+        "actSymbol": "ALL$E",
+        "securityName": "Allstate Corporation Depositary Shares Representing 1/1000th Perpetual Preferred Series E",
+        "exchange": "N",
+        "cqsSymbol": "ALLpE",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "ALL-E"
+    },
+    {
+        "actSymbol": "ALL$F",
+        "securityName": "Allstate Corporation (The) Leopards Dep Shares Representing 1/1000th Perp Pfd",
+        "exchange": "N",
+        "cqsSymbol": "ALLpF",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "ALL-F"
+    },
+    {
+        "actSymbol": "ALL$G",
+        "securityName": "Allstate Corporation (The) Depositary Shares each representing a 1/1,000th interest in a share of Fixed Rate Noncumulative Perpetual Preferred Stock, Series G",
+        "exchange": "N",
+        "cqsSymbol": "ALLpG",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "ALL-G"
+    },
+    {
+        "actSymbol": "ALLE",
+        "securityName": "Allegion plc Ordinary Shares",
+        "exchange": "N",
+        "cqsSymbol": "ALLE",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "ALLE"
+    },
+    {
+        "symbol": "ALLK",
+        "securityName": "Allakos Inc. - Common Stock",
+        "marketCategory": "Q",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "symbol": "ALLO",
+        "securityName": "Allogene Therapeutics, Inc. - Common Stock",
+        "marketCategory": "Q",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "symbol": "ALLT",
+        "securityName": "Allot Ltd. - Ordinary Shares",
+        "marketCategory": "Q",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "actSymbol": "ALLY",
+        "securityName": "Ally Financial Inc. Common Stock",
+        "exchange": "N",
+        "cqsSymbol": "ALLY",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "ALLY"
+    },
+    {
+        "actSymbol": "ALLY$A",
+        "securityName": "GMAC Capital Trust I Fixed Rate Floating Rate Trust Preferred Securities, Series 2",
+        "exchange": "N",
+        "cqsSymbol": "ALLYpA",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "ALLY-A"
+    },
+    {
+        "symbol": "ALNA",
+        "securityName": "Allena Pharmaceuticals, Inc. - Common Stock",
+        "marketCategory": "Q",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "symbol": "ALNY",
+        "securityName": "Alnylam Pharmaceuticals, Inc. - Common Stock",
+        "marketCategory": "Q",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "actSymbol": "ALO",
+        "securityName": "Alio Gold Inc. Common Shares (Canada)",
+        "exchange": "A",
+        "cqsSymbol": "ALO",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "ALO"
+    },
+    {
+        "symbol": "ALOT",
+        "securityName": "AstroNova, Inc. - Common Stock",
+        "marketCategory": "G",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "actSymbol": "ALP$Q",
+        "securityName": "Alabama Power Company 5.00% Class A Preferred Stock, Cumulative, Par Value $1 Per Share (Stated Capital $25 Per Share)",
+        "exchange": "N",
+        "cqsSymbol": "ALPpQ",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "ALP-Q"
+    },
+    {
+        "symbol": "ALPN",
+        "securityName": "Alpine Immune Sciences, Inc. - Common Stock",
+        "marketCategory": "G",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "symbol": "ALRM",
+        "securityName": "Alarm.com Holdings, Inc. - Common Stock",
+        "marketCategory": "Q",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "symbol": "ALRN",
+        "securityName": "Aileron Therapeutics, Inc. - Common Stock",
+        "marketCategory": "G",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "symbol": "ALSK",
+        "securityName": "Alaska Communications Systems Group, Inc. - Common Stock",
+        "marketCategory": "Q",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "actSymbol": "ALSN",
+        "securityName": "Allison Transmission Holdings, Inc. Common Stock",
+        "exchange": "N",
+        "cqsSymbol": "ALSN",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "ALSN"
+    },
+    {
+        "symbol": "ALT",
+        "securityName": "Altimmune, Inc. - Common Stock",
+        "marketCategory": "G",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "symbol": "ALTM",
+        "securityName": "Altus Midstream Company - Class A Common Stock",
+        "marketCategory": "G",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "symbol": "ALTR",
+        "securityName": "Altair Engineering Inc. - Class A Common Stock",
+        "marketCategory": "Q",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "actSymbol": "ALTS",
+        "securityName": "ProShares Morningstar Alternatives Solution ETF",
+        "exchange": "Z",
+        "cqsSymbol": "ALTS",
+        "etf": "Y",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "ALTS"
+    },
+    {
+        "symbol": "ALTY",
+        "securityName": "Global X SuperDividend Alternatives ETF",
+        "marketCategory": "G",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "Y",
+        "nextShares": "N"
+    },
+    {
+        "actSymbol": "ALV",
+        "securityName": "Autoliv, Inc. Common Stock",
+        "exchange": "N",
+        "cqsSymbol": "ALV",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "ALV"
+    },
+    {
+        "actSymbol": "ALX",
+        "securityName": "Alexander's, Inc. Common Stock",
+        "exchange": "N",
+        "cqsSymbol": "ALX",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "ALX"
+    },
+    {
+        "symbol": "ALXN",
+        "securityName": "Alexion Pharmaceuticals, Inc. - Common Stock",
+        "marketCategory": "Q",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "symbol": "ALYA",
+        "securityName": "Alithya Group inc. - Class A subordinate voting shares",
+        "marketCategory": "S",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "actSymbol": "AM",
+        "securityName": "Antero Midstream Corporation Common Stock",
+        "exchange": "N",
+        "cqsSymbol": "AM",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "AM"
+    },
+    {
+        "symbol": "AMAG",
+        "securityName": "AMAG Pharmaceuticals, Inc. - Common Stock",
+        "marketCategory": "Q",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "symbol": "AMAL",
+        "securityName": "Amalgamated Bank - Class A Common Stock",
+        "marketCategory": "G",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "symbol": "AMAT",
+        "securityName": "Applied Materials, Inc. - Common Stock",
+        "marketCategory": "Q",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "symbol": "AMBA",
+        "securityName": "Ambarella, Inc. - Ordinary Shares",
+        "marketCategory": "Q",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "symbol": "AMBC",
+        "securityName": "Ambac Financial Group, Inc. - Common Stock",
+        "marketCategory": "Q",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "symbol": "AMBCW",
+        "securityName": "Ambac Financial Group, Inc. - Warrants",
+        "marketCategory": "Q",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "actSymbol": "AMBO",
+        "securityName": "Ambow Education Holding Ltd. American Depository Shares, each representing two Class A ordinary shares",
+        "exchange": "A",
+        "cqsSymbol": "AMBO",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "AMBO"
+    },
+    {
+        "actSymbol": "AMBR",
+        "securityName": "Amber Road, Inc. Common Stock",
+        "exchange": "N",
+        "cqsSymbol": "AMBR",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "AMBR"
+    },
+    {
+        "actSymbol": "AMC",
+        "securityName": "AMC Entertainment Holdings, Inc. Class A Common Stock",
+        "exchange": "N",
+        "cqsSymbol": "AMC",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "AMC"
+    },
+    {
+        "symbol": "AMCA",
+        "securityName": "iShares Russell 1000 Pure U.S. Revenue ETF",
+        "marketCategory": "G",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "Y",
+        "nextShares": "N"
+    },
+    {
+        "symbol": "AMCI",
+        "securityName": "AMCI Acquisition Corp. - Class A Common Stock",
+        "marketCategory": "S",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "symbol": "AMCIU",
+        "securityName": "AMCI Acquisition Corp. - Unit",
+        "marketCategory": "S",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "symbol": "AMCIW",
+        "securityName": "AMCI Acquisition Corp. - Warrant",
+        "marketCategory": "S",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "actSymbol": "AMCR",
+        "securityName": "Amcor plc Ordinary Shares",
+        "exchange": "N",
+        "cqsSymbol": "AMCR",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "AMCR"
+    },
+    {
+        "symbol": "AMCX",
+        "securityName": "AMC Networks Inc. - Class A Common Stock",
+        "marketCategory": "Q",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "symbol": "AMD",
+        "securityName": "Advanced Micro Devices, Inc. - Common Stock",
+        "marketCategory": "Q",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "actSymbol": "AME",
+        "securityName": "AMETEK, Inc.",
+        "exchange": "N",
+        "cqsSymbol": "AME",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "AME"
+    },
+    {
+        "symbol": "AMED",
+        "securityName": "Amedisys Inc - Common Stock",
+        "marketCategory": "Q",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "symbol": "AMEH",
+        "securityName": "Apollo Medical Holdings, Inc. - Common Stock",
+        "marketCategory": "S",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "actSymbol": "AMG",
+        "securityName": "Affiliated Managers Group, Inc. Common Stock",
+        "exchange": "N",
+        "cqsSymbol": "AMG",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "AMG"
+    },
+    {
+        "symbol": "AMGN",
+        "securityName": "Amgen Inc. - Common Stock",
+        "marketCategory": "Q",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "actSymbol": "AMH",
+        "securityName": "American Homes 4 Rent Common Shares of Beneficial Interest",
+        "exchange": "N",
+        "cqsSymbol": "AMH",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "AMH"
+    },
+    {
+        "actSymbol": "AMH$D",
+        "securityName": "American Homes 4 Rent 6.5% Series D Cumulative Perpetual Preferred Shares of Beneficial Interest",
+        "exchange": "N",
+        "cqsSymbol": "AMHpD",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "AMH-D"
+    },
+    {
+        "actSymbol": "AMH$E",
+        "securityName": "American Homes 4 Rent 6.35% Series E Cumulative Redeemable Perpetual Preferred Shares of Beneficial Interest",
+        "exchange": "N",
+        "cqsSymbol": "AMHpE",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "AMH-E"
+    },
+    {
+        "actSymbol": "AMH$F",
+        "securityName": "American Homes 4 Rent 5.875% Series F Cumulative Redeemable Perpetual Preferred Shares",
+        "exchange": "N",
+        "cqsSymbol": "AMHpF",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "AMH-F"
+    },
+    {
+        "actSymbol": "AMH$G",
+        "securityName": "American Homes 4 Rent Series G cumulative redeemable perpetual preferred shares of beneficial interest",
+        "exchange": "N",
+        "cqsSymbol": "AMHpG",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "AMH-G"
+    },
+    {
+        "actSymbol": "AMH$H",
+        "securityName": "American Homes 4 Rent Series H cumulative redeemable perpetual Preferred Shares of Beneficial Interest",
+        "exchange": "N",
+        "cqsSymbol": "AMHpH",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "AMH-H"
+    },
+    {
+        "actSymbol": "AMID",
+        "securityName": "American Midstream Partners, LP Common Units representing Limited Partner Interests",
+        "exchange": "N",
+        "cqsSymbol": "AMID",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "AMID"
+    },
+    {
+        "actSymbol": "AMJ",
+        "securityName": "JPMorgan Chase Capital XVI JP Morgan Alerian MLP ETN",
+        "exchange": "P",
+        "cqsSymbol": "AMJ",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "AMJ"
+    },
+    {
+        "actSymbol": "AMJL",
+        "securityName": "Credit Suisse X-Links Monthly Pay 2xLeveraged Alerian MLP Index Exchange Traded Notes due May 16, 2036",
+        "exchange": "P",
+        "cqsSymbol": "AMJL",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "AMJL"
+    },
+    {
+        "symbol": "AMKR",
+        "securityName": "Amkor Technology, Inc. - Common Stock",
+        "marketCategory": "Q",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "actSymbol": "AMLP",
+        "securityName": "Alerian MLP ETF",
+        "exchange": "P",
+        "cqsSymbol": "AMLP",
+        "etf": "Y",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "AMLP"
+    },
+    {
+        "actSymbol": "AMN",
+        "securityName": "AMN Healthcare Services Inc AMN Healthcare Services Inc",
+        "exchange": "N",
+        "cqsSymbol": "AMN",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "AMN"
+    },
+    {
+        "symbol": "AMNB",
+        "securityName": "American National Bankshares, Inc. - Common Stock",
+        "marketCategory": "Q",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "actSymbol": "AMOM",
+        "securityName": "QRAFT AI-Enhanced U.S. Large Cap Momentum ETF",
+        "exchange": "P",
+        "cqsSymbol": "AMOM",
+        "etf": "Y",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "AMOM"
+    },
+    {
+        "symbol": "AMOT",
+        "securityName": "Allied Motion Technologies, Inc. - Common Stock",
+        "marketCategory": "G",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "actSymbol": "AMOV",
+        "securityName": "America Movil, S.A.B. de C.V. Class A American Depositary Shares",
+        "exchange": "N",
+        "cqsSymbol": "AMOV",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "AMOV"
+    },
+    {
+        "actSymbol": "AMP",
+        "securityName": "Ameriprise Financial, Inc. Common Stock",
+        "exchange": "N",
+        "cqsSymbol": "AMP",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "AMP"
+    },
+    {
+        "actSymbol": "AMPE",
+        "securityName": "Ampio Pharmaceuticals, Inc.",
+        "exchange": "A",
+        "cqsSymbol": "AMPE",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "AMPE"
+    },
+    {
+        "symbol": "AMPH",
+        "securityName": "Amphastar Pharmaceuticals, Inc. - Common Stock",
+        "marketCategory": "Q",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "symbol": "AMR",
+        "securityName": "Alta Mesa Resources, Inc. - Class A Common Stock",
+        "marketCategory": "S",
+        "testIssue": "N",
+        "financialStatus": "H",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "symbol": "AMRB",
+        "securityName": "American River Bankshares - Common Stock",
+        "marketCategory": "Q",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "actSymbol": "AMRC",
+        "securityName": "Ameresco, Inc. Class A Common Stock",
+        "exchange": "N",
+        "cqsSymbol": "AMRC",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "AMRC"
+    },
+    {
+        "symbol": "AMRH",
+        "securityName": "Ameri Holdings, Inc. - Common Stock",
+        "marketCategory": "S",
+        "testIssue": "N",
+        "financialStatus": "D",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "symbol": "AMRHW",
+        "securityName": "Ameri Holdings, Inc. - Warrant",
+        "marketCategory": "S",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "symbol": "AMRK",
+        "securityName": "A-Mark Precious Metals, Inc. - Common Stock",
+        "marketCategory": "Q",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "symbol": "AMRN",
+        "securityName": "Amarin Corporation plc - American Depositary Shares, each representing one Ordinary Share",
+        "marketCategory": "G",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "symbol": "AMRS",
+        "securityName": "Amyris, Inc. - Common Stock",
+        "marketCategory": "Q",
+        "testIssue": "N",
+        "financialStatus": "E",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "symbol": "AMRWW",
+        "securityName": "Alta Mesa Resources, Inc. - Warrant",
+        "marketCategory": "S",
+        "testIssue": "N",
+        "financialStatus": "E",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "actSymbol": "AMRX",
+        "securityName": "Amneal Pharmaceuticals, Inc. Class A Common Stock",
+        "exchange": "N",
+        "cqsSymbol": "AMRX",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "AMRX"
+    },
+    {
+        "actSymbol": "AMS",
+        "securityName": "American Shared Hospital Services Common Stock",
+        "exchange": "A",
+        "cqsSymbol": "AMS",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "AMS"
+    },
+    {
+        "symbol": "AMSC",
+        "securityName": "American Superconductor Corporation - Common Stock",
+        "marketCategory": "Q",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "symbol": "AMSF",
+        "securityName": "AMERISAFE, Inc. - Common Stock",
+        "marketCategory": "Q",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "symbol": "AMSWA",
+        "securityName": "American Software, Inc. - Class A Common Stock",
+        "marketCategory": "Q",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "actSymbol": "AMT",
+        "securityName": "American Tower Corporation (REIT) Common Stock",
+        "exchange": "N",
+        "cqsSymbol": "AMT",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "AMT"
+    },
+    {
+        "symbol": "AMTB",
+        "securityName": "Amerant Bancorp Inc. - Class A Common Stock",
+        "marketCategory": "Q",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "symbol": "AMTBB",
+        "securityName": "Amerant Bancorp Inc. - Class B Common Stock",
+        "marketCategory": "Q",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "symbol": "AMTD",
+        "securityName": "TD Ameritrade Holding Corporation - Common Stock",
+        "marketCategory": "Q",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "symbol": "AMTX",
+        "securityName": "Aemetis, Inc - Common Stock",
+        "marketCategory": "G",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "actSymbol": "AMU",
+        "securityName": "ETRACS Alerian MLP Index ETN",
+        "exchange": "P",
+        "cqsSymbol": "AMU",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "AMU"
+    },
+    {
+        "actSymbol": "AMUB",
+        "securityName": "ETRACS Alerian MLP Index ETN Series B due July 18, 2042",
+        "exchange": "P",
+        "cqsSymbol": "AMUB",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "AMUB"
+    },
+    {
+        "symbol": "AMWD",
+        "securityName": "American Woodmark Corporation - Common Stock",
+        "marketCategory": "Q",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "actSymbol": "AMX",
+        "securityName": "America Movil, S.A.B. de C.V. American Depository Receipt Series L",
+        "exchange": "N",
+        "cqsSymbol": "AMX",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "AMX"
+    },
+    {
+        "actSymbol": "AMZA",
+        "securityName": "InfraCap MLP ETF",
+        "exchange": "P",
+        "cqsSymbol": "AMZA",
+        "etf": "Y",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "AMZA"
+    },
+    {
+        "symbol": "AMZN",
+        "securityName": "Amazon.com, Inc. - Common Stock",
+        "marketCategory": "Q",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "actSymbol": "AN",
+        "securityName": "AutoNation, Inc. Common Stock",
+        "exchange": "N",
+        "cqsSymbol": "AN",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "AN"
+    },
+    {
+        "symbol": "ANAB",
+        "securityName": "AnaptysBio, Inc. - Common Stock",
+        "marketCategory": "Q",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "symbol": "ANAT",
+        "securityName": "American National Insurance Company - Common Stock",
+        "marketCategory": "Q",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "symbol": "ANCN",
+        "securityName": "Anchiano Therapeutics Ltd. - American Depositary Share",
+        "marketCategory": "S",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "symbol": "ANDA",
+        "securityName": "Andina Acquisition Corp. III - Ordinary Shares",
+        "marketCategory": "S",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "symbol": "ANDAR",
+        "securityName": "Andina Acquisition Corp. III - Right",
+        "marketCategory": "S",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "symbol": "ANDAU",
+        "securityName": "Andina Acquisition Corp. III - Unit",
+        "marketCategory": "S",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "symbol": "ANDAW",
+        "securityName": "Andina Acquisition Corp. III - Warrant",
+        "marketCategory": "S",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "symbol": "ANDE",
+        "securityName": "The Andersons, Inc. - Common Stock",
+        "marketCategory": "Q",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "actSymbol": "ANDX",
+        "securityName": "Andeavor Logistics LP Common Units representing Limited Partner Interests",
+        "exchange": "N",
+        "cqsSymbol": "ANDX",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "ANDX"
+    },
+    {
+        "actSymbol": "ANET",
+        "securityName": "Arista Networks, Inc. Common Stock",
+        "exchange": "N",
+        "cqsSymbol": "ANET",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "ANET"
+    },
+    {
+        "actSymbol": "ANF",
+        "securityName": "Abercrombie & Fitch Company Common Stock",
+        "exchange": "N",
+        "cqsSymbol": "ANF",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "ANF"
+    },
+    {
+        "actSymbol": "ANFI",
+        "securityName": "Amira Nature Foods Ltd Ordinary Shares",
+        "exchange": "N",
+        "cqsSymbol": "ANFI",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "ANFI"
+    },
+    {
+        "symbol": "ANGI",
+        "securityName": "ANGI Homeservices Inc. - Class A Common Stock",
+        "marketCategory": "Q",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "actSymbol": "ANGL",
+        "securityName": "VanEck Vectors Fallen Angel High Yield Bond",
+        "exchange": "P",
+        "cqsSymbol": "ANGL",
+        "etf": "Y",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "ANGL"
+    },
+    {
+        "symbol": "ANGO",
+        "securityName": "AngioDynamics, Inc. - Common Stock",
+        "marketCategory": "Q",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "actSymbol": "ANH",
+        "securityName": "Anworth Mortgage Asset Corporation Common Stock",
+        "exchange": "N",
+        "cqsSymbol": "ANH",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "ANH"
+    },
+    {
+        "actSymbol": "ANH$A",
+        "securityName": "Anworth Mortgage Asset Corporation Series A Preferred Stock",
+        "exchange": "N",
+        "cqsSymbol": "ANHpA",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "ANH-A"
+    },
+    {
+        "actSymbol": "ANH$B",
+        "securityName": "Anworth Mortgage Asset  Corporation Preferred Stock Series B 6.25%",
+        "exchange": "N",
+        "cqsSymbol": "ANHpB",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "ANH-B"
+    },
+    {
+        "actSymbol": "ANH$C",
+        "securityName": "Anworth Mortgage Asset  Corporation 7.625% Series C Cumulative Redeemable  Preferred Stock",
+        "exchange": "N",
+        "cqsSymbol": "ANHpC",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "ANH-C"
+    },
+    {
+        "symbol": "ANIK",
+        "securityName": "Anika Therapeutics Inc. - Common Stock",
+        "marketCategory": "Q",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "symbol": "ANIP",
+        "securityName": "ANI Pharmaceuticals, Inc. - Common Stock",
+        "marketCategory": "G",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "symbol": "ANIX",
+        "securityName": "Anixa Biosciences, Inc. - Common Stock",
+        "marketCategory": "S",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "symbol": "ANSS",
+        "securityName": "ANSYS, Inc. - Common Stock",
+        "marketCategory": "Q",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "symbol": "ANTE",
+        "securityName": "AirNet Technology Inc. - American Depositary Shares, each representing ten ordinary shares",
+        "marketCategory": "S",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "actSymbol": "ANTM",
+        "securityName": "Anthem, Inc. Common Stock",
+        "exchange": "N",
+        "cqsSymbol": "ANTM",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "ANTM"
+    },
+    {
+        "symbol": "ANY",
+        "securityName": "Sphere 3D Corp. - Common Shares",
+        "marketCategory": "S",
+        "testIssue": "N",
+        "financialStatus": "D",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "actSymbol": "AOA",
+        "securityName": "iShares Core Aggressive Allocation ETF",
+        "exchange": "P",
+        "cqsSymbol": "AOA",
+        "etf": "Y",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "AOA"
+    },
+    {
+        "symbol": "AOBC",
+        "securityName": "American Outdoor Brands Corporation - Common Stock",
+        "marketCategory": "Q",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "actSymbol": "AOD",
+        "securityName": "Aberdeen Total Dynamic Dividend Fund Common Stock",
+        "exchange": "N",
+        "cqsSymbol": "AOD",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "AOD"
+    },
+    {
+        "actSymbol": "AOIL",
+        "securityName": "Aberdeen Standard Bloomberg WTI Crude Oil Strategy K-1 Free ETF",
+        "exchange": "P",
+        "cqsSymbol": "AOIL",
+        "etf": "Y",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "AOIL"
+    },
+    {
+        "actSymbol": "AOK",
+        "securityName": "iShares Core Conservative Allocation ETF",
+        "exchange": "P",
+        "cqsSymbol": "AOK",
+        "etf": "Y",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "AOK"
+    },
+    {
+        "actSymbol": "AOM",
+        "securityName": "iShares Core Moderate Allocation ETF",
+        "exchange": "P",
+        "cqsSymbol": "AOM",
+        "etf": "Y",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "AOM"
+    },
+    {
+        "actSymbol": "AON",
+        "securityName": "Aon plc Class A Ordinary Shares (UK)",
+        "exchange": "N",
+        "cqsSymbol": "AON",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "AON"
+    },
+    {
+        "actSymbol": "AOR",
+        "securityName": "iShares Core Growth Allocation ETF",
+        "exchange": "P",
+        "cqsSymbol": "AOR",
+        "etf": "Y",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "AOR"
+    },
+    {
+        "actSymbol": "AOS",
+        "securityName": "A.O. Smith Corporation Common Stock",
+        "exchange": "N",
+        "cqsSymbol": "AOS",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "AOS"
+    },
+    {
+        "symbol": "AOSL",
+        "securityName": "Alpha and Omega Semiconductor Limited - Common Shares",
+        "marketCategory": "Q",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "actSymbol": "AP",
+        "securityName": "Ampco-Pittsburgh Corporation Common Stock",
+        "exchange": "N",
+        "cqsSymbol": "AP",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "AP"
+    },
+    {
+        "actSymbol": "APA",
+        "securityName": "Apache Corporation Common Stock",
+        "exchange": "N",
+        "cqsSymbol": "APA",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "APA"
+    },
+    {
+        "actSymbol": "APAM",
+        "securityName": "Artisan Partners Asset Management Inc. Class A Common Stock",
+        "exchange": "N",
+        "cqsSymbol": "APAM",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "APAM"
+    },
+    {
+        "actSymbol": "APC",
+        "securityName": "Anadarko Petroleum Corporation Common Stock",
+        "exchange": "N",
+        "cqsSymbol": "APC",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "APC"
+    },
+    {
+        "actSymbol": "APD",
+        "securityName": "Air Products and Chemicals, Inc. Common Stock",
+        "exchange": "N",
+        "cqsSymbol": "APD",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "APD"
+    },
+    {
+        "symbol": "APDN",
+        "securityName": "Applied DNA Sciences Inc - Common Stock",
+        "marketCategory": "S",
+        "testIssue": "N",
+        "financialStatus": "D",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "symbol": "APDNW",
+        "securityName": "Applied DNA Sciences Inc - Warrant",
+        "marketCategory": "S",
+        "testIssue": "N",
+        "financialStatus": "D",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "symbol": "APEI",
+        "securityName": "American Public Education, Inc. - Common Stock",
+        "marketCategory": "Q",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "symbol": "APEN",
+        "securityName": "Apollo Endosurgery, Inc. - Common Stock",
+        "marketCategory": "G",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "symbol": "APEX",
+        "securityName": "Apex Global Brands Inc. - Common Stock",
+        "marketCategory": "S",
+        "testIssue": "N",
+        "financialStatus": "D",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "actSymbol": "APH",
+        "securityName": "Amphenol Corporation Common Stock",
+        "exchange": "N",
+        "cqsSymbol": "APH",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "APH"
+    },
+    {
+        "actSymbol": "APHA",
+        "securityName": "Aphria Inc. Common Shares",
+        "exchange": "N",
+        "cqsSymbol": "APHA",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "APHA"
+    },
+    {
+        "actSymbol": "APLE",
+        "securityName": "Apple Hospitality REIT, Inc. Common Shares",
+        "exchange": "N",
+        "cqsSymbol": "APLE",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "APLE"
+    },
+    {
+        "symbol": "APLS",
+        "securityName": "Apellis Pharmaceuticals, Inc. - Common Stock",
+        "marketCategory": "Q",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "symbol": "APLT",
+        "securityName": "Applied Therapeutics, Inc. - Common Stock",
+        "marketCategory": "G",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "symbol": "APM",
+        "securityName": "Aptorum Group Limited - Class A Ordinary Shares",
+        "marketCategory": "G",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "actSymbol": "APO",
+        "securityName": "Apollo Global Management, LLC Class A Common Shares Representing Class A Limitied Liability Company Interests",
+        "exchange": "N",
+        "cqsSymbol": "APO",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "APO"
+    },
+    {
+        "actSymbol": "APO$A",
+        "securityName": "Apollo Global Management, LLC 6.375% Series A Preferred Shares",
+        "exchange": "N",
+        "cqsSymbol": "APOpA",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "APO-A"
+    },
+    {
+        "actSymbol": "APO$B",
+        "securityName": "Apollo Global Management, LLC 6.375% Series B Preferred Shares",
+        "exchange": "N",
+        "cqsSymbol": "APOpB",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "APO-B"
+    },
+    {
+        "symbol": "APOG",
+        "securityName": "Apogee Enterprises, Inc. - Common Stock",
+        "marketCategory": "Q",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "symbol": "APOP",
+        "securityName": "Cellect Biotechnology Ltd. - American Depositary Shares",
+        "marketCategory": "S",
+        "testIssue": "N",
+        "financialStatus": "D",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "symbol": "APOPW",
+        "securityName": "Cellect Biotechnology Ltd. - Warrants to Purchase ADR (1 WT and $7.50 to purchase 1 ADS)",
+        "marketCategory": "S",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "symbol": "APPF",
+        "securityName": "AppFolio, Inc. - Class A Common Stock",
+        "marketCategory": "G",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "symbol": "APPN",
+        "securityName": "Appian Corporation - Class A Common Stock",
+        "marketCategory": "G",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "symbol": "APPS",
+        "securityName": "Digital Turbine, Inc. - Common Stock",
+        "marketCategory": "S",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "actSymbol": "APRN",
+        "securityName": "Blue Apron Holdings, Inc. Class A Common Stock",
+        "exchange": "N",
+        "cqsSymbol": "APRN",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "APRN"
+    },
+    {
+        "actSymbol": "APT",
+        "securityName": "Alpha Pro Tech, Ltd. Common Stock",
+        "exchange": "A",
+        "cqsSymbol": "APT",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "APT"
+    },
+    {
+        "symbol": "APTO",
+        "securityName": "Aptose Biosciences, Inc. - Common Shares",
+        "marketCategory": "S",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "actSymbol": "APTS",
+        "securityName": "Preferred Apartment Communities, Inc. Common Stock",
+        "exchange": "N",
+        "cqsSymbol": "APTS",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "APTS"
+    },
+    {
+        "actSymbol": "APTV",
+        "securityName": "Aptiv PLC Ordinary Shares",
+        "exchange": "N",
+        "cqsSymbol": "APTV",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "APTV"
+    },
+    {
+        "symbol": "APTX",
+        "securityName": "Aptinyx Inc. - Common Stock",
+        "marketCategory": "Q",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "actSymbol": "APU",
+        "securityName": "AmeriGas Partners, L.P. Common Stock",
+        "exchange": "N",
+        "cqsSymbol": "APU",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "APU"
+    },
+    {
+        "symbol": "APVO",
+        "securityName": "Aptevo Therapeutics Inc. - Common Stock",
+        "marketCategory": "Q",
+        "testIssue": "N",
+        "financialStatus": "D",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "symbol": "APWC",
+        "securityName": "Asia Pacific Wire & Cable Corporation Limited - Common shares, Par value .01 per share",
+        "marketCategory": "G",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "actSymbol": "APY",
+        "securityName": "Apergy Corporation Common Stock ",
+        "exchange": "N",
+        "cqsSymbol": "APY",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "APY"
+    },
+    {
+        "symbol": "APYX",
+        "securityName": "Apyx Medical Corporation - Common Stock",
+        "marketCategory": "Q",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "actSymbol": "AQ",
+        "securityName": "Aquantia Corp. Common Stock",
+        "exchange": "N",
+        "cqsSymbol": "AQ",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "AQ"
+    },
+    {
+        "symbol": "AQB",
+        "securityName": "AquaBounty Technologies, Inc. - Common Stock",
+        "marketCategory": "S",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "symbol": "AQMS",
+        "securityName": "Aqua Metals, Inc. - Common Stock",
+        "marketCategory": "S",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "actSymbol": "AQN",
+        "securityName": "Algonquin Power & Utilities Corp. Common Shares",
+        "exchange": "N",
+        "cqsSymbol": "AQN",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "AQN"
+    },
+    {
+        "actSymbol": "AQNA",
+        "securityName": "Algonquin Power & Utilities Corp. 6.875% Fixed-to-Floating Rate Subordinated Notes Series 2018-A due October 17, 2078",
+        "exchange": "N",
+        "cqsSymbol": "AQNA",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "AQNA"
+    },
+    {
+        "actSymbol": "AQNB",
+        "securityName": "Algonquin Power & Utilities Corp. 6.20% Fixed-to-Floating Subordinated Notes Series 2019-A due July 1, 2079",
+        "exchange": "N",
+        "cqsSymbol": "AQNB",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "AQNB"
+    },
+    {
+        "symbol": "AQST",
+        "securityName": "Aquestive Therapeutics, Inc. - Common Stock",
+        "marketCategory": "G",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "actSymbol": "AQUA",
+        "securityName": "Evoqua Water Technologies Corp. Common Stock",
+        "exchange": "N",
+        "cqsSymbol": "AQUA",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "AQUA"
+    },
+    {
+        "symbol": "AQXP",
+        "securityName": "Aquinox Pharmaceuticals, Inc. - Common Stock",
+        "marketCategory": "G",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "actSymbol": "AR",
+        "securityName": "Antero Resources Corporation Common Stock",
+        "exchange": "N",
+        "cqsSymbol": "AR",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "AR"
+    },
+    {
+        "actSymbol": "ARA",
+        "securityName": "American Renal Associates Holdings, Inc Common Stock",
+        "exchange": "N",
+        "cqsSymbol": "ARA",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "ARA"
+    },
+    {
+        "symbol": "ARAV",
+        "securityName": "Aravive, Inc. - Common Stock",
+        "marketCategory": "Q",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "symbol": "ARAY",
+        "securityName": "Accuray Incorporated - Common Stock",
+        "marketCategory": "Q",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "actSymbol": "ARC",
+        "securityName": "ARC Document Solutions, Inc. Common Stock",
+        "exchange": "N",
+        "cqsSymbol": "ARC",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "ARC"
+    },
+    {
+        "symbol": "ARCB",
+        "securityName": "ArcBest Corporation - Common Stock",
+        "marketCategory": "Q",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "symbol": "ARCC",
+        "securityName": "Ares Capital Corporation - Closed End Fund",
+        "marketCategory": "Q",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "symbol": "ARCE",
+        "securityName": "Arco Platform Limited - Class A Common Shares",
+        "marketCategory": "Q",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "actSymbol": "ARCH",
+        "securityName": "Arch Coal, Inc. Class A Common Stock",
+        "exchange": "N",
+        "cqsSymbol": "ARCH",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "ARCH"
+    },
+    {
+        "symbol": "ARCI",
+        "securityName": "Appliance Recycling Centers of America, Inc. - Common Stock",
+        "marketCategory": "S",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "actSymbol": "ARCM",
+        "securityName": "Arrow Reserve Capital Management ETF",
+        "exchange": "Z",
+        "cqsSymbol": "ARCM",
+        "etf": "Y",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "ARCM"
+    },
+    {
+        "actSymbol": "ARCO",
+        "securityName": "Arcos Dorados Holdings Inc. Class A Shares",
+        "exchange": "N",
+        "cqsSymbol": "ARCO",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "ARCO"
+    },
+    {
+        "symbol": "ARCT",
+        "securityName": "Arcturus Therapeutics Holdings Inc. - Common Stock",
+        "marketCategory": "G",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "symbol": "ARCW",
+        "securityName": "ARC Group Worldwide, Inc. - Common Stock",
+        "marketCategory": "S",
+        "testIssue": "N",
+        "financialStatus": "D",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "actSymbol": "ARD",
+        "securityName": "Ardagh Group S.A. Common Shares",
+        "exchange": "N",
+        "cqsSymbol": "ARD",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "ARD"
+    },
+    {
+        "actSymbol": "ARDC",
+        "securityName": "Ares Dynamic Credit Allocation Fund, Inc. Common Shares",
+        "exchange": "N",
+        "cqsSymbol": "ARDC",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "ARDC"
+    },
+    {
+        "symbol": "ARDS",
+        "securityName": "Aridis Pharmaceuticals Inc. - Common Stock",
+        "marketCategory": "S",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "symbol": "ARDX",
+        "securityName": "Ardelyx, Inc. - Common Stock",
+        "marketCategory": "G",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "actSymbol": "ARE",
+        "securityName": "Alexandria Real Estate Equities, Inc. Common Stock",
+        "exchange": "N",
+        "cqsSymbol": "ARE",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "ARE"
+    },
+    {
+        "actSymbol": "ARE$D",
+        "securityName": "Alexandria Real Estate Equities, Inc. 7.00% Series D Cumulative Convertible Preferred Stock",
+        "exchange": "N",
+        "cqsSymbol": "AREpD",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "ARE-D"
+    },
+    {
+        "symbol": "AREC",
+        "securityName": "American Resources Corporation - Class A Common Stock",
+        "marketCategory": "S",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "actSymbol": "ARES",
+        "securityName": "Ares Management Corporation Class A Common Stock",
+        "exchange": "N",
+        "cqsSymbol": "ARES",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "ARES"
+    },
+    {
+        "actSymbol": "ARES$A",
+        "securityName": "Ares Management Corporation 7.00% Series A Preferred Stock",
+        "exchange": "N",
+        "cqsSymbol": "ARESpA",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "ARES-A"
+    },
+    {
+        "symbol": "AREX",
+        "securityName": "Approach Resources Inc. - Common Stock",
+        "marketCategory": "Q",
+        "testIssue": "N",
+        "financialStatus": "D",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "actSymbol": "ARGD",
+        "securityName": "Argo Group International Holdings, Ltd. 6.5% Senior Notes Due 2042",
+        "exchange": "N",
+        "cqsSymbol": "ARGD",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "ARGD"
+    },
+    {
+        "actSymbol": "ARGO",
+        "securityName": "Argo Group International Holdings, Ltd.",
+        "exchange": "N",
+        "cqsSymbol": "ARGO",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "ARGO"
+    },
+    {
+        "actSymbol": "ARGT",
+        "securityName": "Global X MSCI Argentina ETF",
+        "exchange": "P",
+        "cqsSymbol": "ARGT",
+        "etf": "Y",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "ARGT"
+    },
+    {
+        "symbol": "ARGX",
+        "securityName": "argenx SE - American Depositary Shares",
+        "marketCategory": "Q",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "actSymbol": "ARI",
+        "securityName": "Apollo Commercial Real Estate Finance, Inc",
+        "exchange": "N",
+        "cqsSymbol": "ARI",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "ARI"
+    },
+    {
+        "actSymbol": "ARKF",
+        "securityName": "ARK Fintech Innovation ETF",
+        "exchange": "P",
+        "cqsSymbol": "ARKF",
+        "etf": "Y",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "ARKF"
+    },
+    {
+        "actSymbol": "ARKG",
+        "securityName": "ARK Genomic Revolution ETF",
+        "exchange": "P",
+        "cqsSymbol": "ARKG",
+        "etf": "Y",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "ARKG"
+    },
+    {
+        "actSymbol": "ARKK",
+        "securityName": "ARK Innovation ETF",
+        "exchange": "P",
+        "cqsSymbol": "ARKK",
+        "etf": "Y",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "ARKK"
+    },
+    {
+        "actSymbol": "ARKQ",
+        "securityName": "ARK Industrial Innovation ETF",
+        "exchange": "P",
+        "cqsSymbol": "ARKQ",
+        "etf": "Y",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "ARKQ"
+    },
+    {
+        "symbol": "ARKR",
+        "securityName": "Ark Restaurants Corp. - Common Stock",
+        "marketCategory": "G",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "actSymbol": "ARKW",
+        "securityName": "ARK Web x.0 ETF",
+        "exchange": "P",
+        "cqsSymbol": "ARKW",
+        "etf": "Y",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "ARKW"
+    },
+    {
+        "actSymbol": "ARL",
+        "securityName": "American Realty Investors, Inc. Common Stock",
+        "exchange": "N",
+        "cqsSymbol": "ARL",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "ARL"
+    },
+    {
+        "actSymbol": "ARLO",
+        "securityName": "Arlo Technologies, Inc. Common Stock",
+        "exchange": "N",
+        "cqsSymbol": "ARLO",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "ARLO"
+    },
+    {
+        "symbol": "ARLP",
+        "securityName": "Alliance Resource Partners, L.P. - Common Units Representing Limited Partnership Interests",
+        "marketCategory": "Q",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "actSymbol": "ARMK",
+        "securityName": "Aramark Common Stock",
+        "exchange": "N",
+        "cqsSymbol": "ARMK",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "ARMK"
+    },
+    {
+        "actSymbol": "ARMP",
+        "securityName": "Armata Pharmaceuticals, Inc. Common Stock",
+        "exchange": "A",
+        "cqsSymbol": "ARMP",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "ARMP"
+    },
+    {
+        "symbol": "ARNA",
+        "securityName": "Arena Pharmaceuticals, Inc. - Common Stock",
+        "marketCategory": "Q",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "actSymbol": "ARNC",
+        "securityName": "Arconic Inc. Common Stock",
+        "exchange": "N",
+        "cqsSymbol": "ARNC",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "ARNC"
+    },
+    {
+        "actSymbol": "ARNC$",
+        "securityName": "Arconic Inc. $3.75 Preferred Stock",
+        "exchange": "A",
+        "cqsSymbol": "ARNCp",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "ARNC-"
+    },
+    {
+        "actSymbol": "AROC",
+        "securityName": "Archrock, Inc. Common Stock",
+        "exchange": "N",
+        "cqsSymbol": "AROC",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "AROC"
+    },
+    {
+        "symbol": "AROW",
+        "securityName": "Arrow Financial Corporation - Common Stock",
+        "marketCategory": "Q",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "symbol": "ARPO",
+        "securityName": "Aerpio Pharmaceuticals, Inc. - Common Stock",
+        "marketCategory": "S",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "symbol": "ARQL",
+        "securityName": "ArQule, Inc. - Common Stock",
+        "marketCategory": "G",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "actSymbol": "ARR",
+        "securityName": "ARMOUR Residential REIT, Inc.",
+        "exchange": "N",
+        "cqsSymbol": "ARR",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "ARR"
+    },
+    {
+        "actSymbol": "ARR$A",
+        "securityName": "Armour Residential REIT INC Preferred Series A",
+        "exchange": "N",
+        "cqsSymbol": "ARRpA.CL",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "ARR-A*"
+    },
+    {
+        "actSymbol": "ARR$B",
+        "securityName": "ARMOUR Residential REIT, Inc. Preferred Series B",
+        "exchange": "N",
+        "cqsSymbol": "ARRpB",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "ARR-B"
+    },
+    {
+        "symbol": "ARRY",
+        "securityName": "Array BioPharma Inc. - Common Stock",
+        "marketCategory": "G",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "symbol": "ARTL",
+        "securityName": "Artelo Biosciences, Inc. - Common Stock",
+        "marketCategory": "S",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "symbol": "ARTLW",
+        "securityName": "Artelo Biosciences, Inc. - Warrant",
+        "marketCategory": "S",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "symbol": "ARTNA",
+        "securityName": "Artesian Resources Corporation - Class A Non-Voting Common Stock",
+        "marketCategory": "Q",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "symbol": "ARTW",
+        "securityName": "Art's-Way Manufacturing Co., Inc. - Common Stock",
+        "marketCategory": "S",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "symbol": "ARTX",
+        "securityName": "Arotech Corporation - Common Stock",
+        "marketCategory": "G",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "symbol": "ARVN",
+        "securityName": "Arvinas, Inc. - Common Stock",
+        "marketCategory": "Q",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "actSymbol": "ARW",
+        "securityName": "Arrow Electronics, Inc. Common Stock",
+        "exchange": "N",
+        "cqsSymbol": "ARW",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "ARW"
+    },
+    {
+        "symbol": "ARWR",
+        "securityName": "Arrowhead Pharmaceuticals, Inc. - Common Stock",
+        "marketCategory": "Q",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "symbol": "ARYA",
+        "securityName": "ARYA Sciences Acquisition Corp. - Class A Ordinary Shares",
+        "marketCategory": "S",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "symbol": "ARYAU",
+        "securityName": "ARYA Sciences Acquisition Corp. - Unit",
+        "marketCategory": "S",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "symbol": "ARYAW",
+        "securityName": "ARYA Sciences Acquisition Corp. - Warrant",
+        "marketCategory": "S",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "actSymbol": "ASA",
+        "securityName": "ASA  Gold and Precious Metals Limited",
+        "exchange": "N",
+        "cqsSymbol": "ASA",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "ASA"
+    },
+    {
+        "actSymbol": "ASB",
+        "securityName": "Associated Banc-Corp Common Stock",
+        "exchange": "N",
+        "cqsSymbol": "ASB",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "ASB"
+    },
+    {
+        "actSymbol": "ASB$C",
+        "securityName": "Associated Banc-Corp Depositary shares, each representing a 1/40th ownership interest in a share of 6.125% Non-Cumulative Perpetual Preferred Stock, Series C",
+        "exchange": "N",
+        "cqsSymbol": "ASBpC",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "ASB-C"
+    },
+    {
+        "actSymbol": "ASB$D",
+        "securityName": "Associated Banc-Corp Depositary Shares, each representing a 1/40th interest in a share of Associated Banc-Corp 5.375% Non-Cumulative Perpetual Preferred Stock, Series D",
+        "exchange": "N",
+        "cqsSymbol": "ASBpD",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "ASB-D"
+    },
+    {
+        "actSymbol": "ASB$E",
+        "securityName": "Associated Banc-Corp Depositary Shares, each representing a 1/40th interest in a share of 5.875% Non-Cumulative Perpetual Preferred Stock, Series E",
+        "exchange": "N",
+        "cqsSymbol": "ASBpE",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "ASB-E"
+    },
+    {
+        "actSymbol": "ASC",
+        "securityName": "Ardmore Shipping Corporation Common Stock",
+        "exchange": "N",
+        "cqsSymbol": "ASC",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "ASC"
+    },
+    {
+        "symbol": "ASCMA",
+        "securityName": "Ascent Capital Group, Inc. - Series A Common Stock",
+        "marketCategory": "Q",
+        "testIssue": "N",
+        "financialStatus": "D",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "actSymbol": "ASEA",
+        "securityName": "Global X FTSE Southeast Asia ETF",
+        "exchange": "P",
+        "cqsSymbol": "ASEA",
+        "etf": "Y",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "ASEA"
+    },
+    {
+        "symbol": "ASET",
+        "securityName": "FlexShares Real Assets Allocation Index Fund",
+        "marketCategory": "G",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "Y",
+        "nextShares": "N"
+    },
+    {
+        "symbol": "ASFI",
+        "securityName": "Asta Funding, Inc. - Common Stock",
+        "marketCategory": "Q",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "actSymbol": "ASG",
+        "securityName": "Liberty All-Star Growth Fund, Inc.",
+        "exchange": "N",
+        "cqsSymbol": "ASG",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "ASG"
+    },
+    {
+        "actSymbol": "ASGN",
+        "securityName": "ASGN Incorporated Common Stock",
+        "exchange": "N",
+        "cqsSymbol": "ASGN",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "ASGN"
+    },
+    {
+        "actSymbol": "ASH",
+        "securityName": "Ashland Global Holdings Inc. Common Stock",
+        "exchange": "N",
+        "cqsSymbol": "ASH",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "ASH"
+    },
+    {
+        "actSymbol": "ASHR",
+        "securityName": "Xtrackers Harvest CSI 300 China A-Shares ETF",
+        "exchange": "P",
+        "cqsSymbol": "ASHR",
+        "etf": "Y",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "ASHR"
+    },
+    {
+        "actSymbol": "ASHS",
+        "securityName": "Xtrackers Harvest CSI 500 China A-Shares Small Cap ETF",
+        "exchange": "P",
+        "cqsSymbol": "ASHS",
+        "etf": "Y",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "ASHS"
+    },
+    {
+        "actSymbol": "ASHX",
+        "securityName": "Xtrackers MSCI China A Inclusion Equity ETF",
+        "exchange": "P",
+        "cqsSymbol": "ASHX",
+        "etf": "Y",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "ASHX"
+    },
+    {
+        "actSymbol": "ASIX",
+        "securityName": "AdvanSix Inc. Common Stock ",
+        "exchange": "N",
+        "cqsSymbol": "ASIX",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "ASIX"
+    },
+    {
+        "symbol": "ASLN",
+        "securityName": "ASLAN Pharmaceuticals Limited - American Depositary Shares",
+        "marketCategory": "G",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "actSymbol": "ASM",
+        "securityName": "Avino Silver & Gold Mines Ltd. Common Shares (Canada)",
+        "exchange": "A",
+        "cqsSymbol": "ASM",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "ASM"
+    },
+    {
+        "symbol": "ASMB",
+        "securityName": "Assembly Biosciences, Inc. - Common Stock",
+        "marketCategory": "Q",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "symbol": "ASML",
+        "securityName": "ASML Holding N.V. - ADS represents 1 ordinary share",
+        "marketCategory": "Q",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "symbol": "ASNA",
+        "securityName": "Ascena Retail Group, Inc. - Common Stock",
+        "marketCategory": "Q",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "symbol": "ASND",
+        "securityName": "Ascendis Pharma A/S - American Depositary Shares",
+        "marketCategory": "Q",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "actSymbol": "ASPN",
+        "securityName": "Aspen Aerogels, Inc. Common Stock",
+        "exchange": "N",
+        "cqsSymbol": "ASPN",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "ASPN"
+    },
+    {
+        "symbol": "ASPS",
+        "securityName": "Altisource Portfolio Solutions S.A. - Common Stock",
+        "marketCategory": "Q",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "symbol": "ASPU",
+        "securityName": "Aspen Group Inc. - Common Stock",
+        "marketCategory": "G",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "actSymbol": "ASR",
+        "securityName": "Grupo Aeroportuario del Sureste, S.A. de C.V. Common Stock",
+        "exchange": "N",
+        "cqsSymbol": "ASR",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "ASR"
+    },
+    {
+        "symbol": "ASRT",
+        "securityName": "Assertio Therapeutics, Inc. - Common Stock",
+        "marketCategory": "Q",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "symbol": "ASRV",
+        "securityName": "AmeriServ Financial Inc. - Common Stock",
+        "marketCategory": "G",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "symbol": "ASRVP",
+        "securityName": "AmeriServ Financial Inc. - AmeriServ Financial Trust I - 8.45% Beneficial Unsecured Securities, Series A",
+        "marketCategory": "G",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "symbol": "ASTC",
+        "securityName": "Astrotech Corporation - Common Stock",
+        "marketCategory": "S",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "symbol": "ASTE",
+        "securityName": "Astec Industries, Inc. - Common Stock",
+        "marketCategory": "Q",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "symbol": "ASUR",
+        "securityName": "Asure Software Inc - Common Stock",
+        "marketCategory": "S",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "symbol": "ASV",
+        "securityName": "ASV Holdings, Inc. - Common Stock",
+        "marketCategory": "S",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "actSymbol": "ASX",
+        "securityName": "ASE Technology Holding Co., Ltd. American Depositary Shares (each representing Two Common Shares) ",
+        "exchange": "N",
+        "cqsSymbol": "ASX",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "ASX"
+    },
+    {
+        "symbol": "ASYS",
+        "securityName": "Amtech Systems, Inc. - Common Stock",
+        "marketCategory": "Q",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "actSymbol": "AT",
+        "securityName": "Atlantic Power Corporation Ordinary Shares (Canada)",
+        "exchange": "N",
+        "cqsSymbol": "AT",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "AT"
+    },
+    {
+        "symbol": "ATAI",
+        "securityName": "ATA Inc. - American Depositary Shares, each representing two common shares",
+        "marketCategory": "G",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "symbol": "ATAX",
+        "securityName": "America First Multifamily Investors, L.P. - Beneficial Unit Certificates (BUCs) representing Limited Partnership Interests",
+        "marketCategory": "Q",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "symbol": "ATEC",
+        "securityName": "Alphatec Holdings, Inc. - Common Stock",
+        "marketCategory": "Q",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "actSymbol": "ATEN",
+        "securityName": "A10 Networks, Inc. Common Stock",
+        "exchange": "N",
+        "cqsSymbol": "ATEN",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "ATEN"
+    },
+    {
+        "actSymbol": "ATEST",
+        "securityName": "Tick Pilot Test Control Common Stock",
+        "exchange": "A",
+        "cqsSymbol": "ATEST",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "Y",
+        "symbol": "ATEST"
+    },
+    {
+        "actSymbol": "ATEST.A",
+        "securityName": "Tick Pilot Test Group 1 Common Stock",
+        "exchange": "A",
+        "cqsSymbol": "ATEST.A",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "Y",
+        "symbol": "ATEST.A"
+    },
+    {
+        "actSymbol": "ATEST.B",
+        "securityName": "Tick pilot Test 2 Common Stock",
+        "exchange": "A",
+        "cqsSymbol": "ATEST.B",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "Y",
+        "symbol": "ATEST.B"
+    },
+    {
+        "actSymbol": "ATEST.C",
+        "securityName": "Tick Pilot Test 3 Common Stock",
+        "exchange": "A",
+        "cqsSymbol": "ATEST.C",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "Y",
+        "symbol": "ATEST.C"
+    },
+    {
+        "symbol": "ATEX",
+        "securityName": "pdvWireless, Inc. - Common Stock",
+        "marketCategory": "S",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "actSymbol": "ATGE",
+        "securityName": "Adtalem Global Education Inc. Common Stock",
+        "exchange": "N",
+        "cqsSymbol": "ATGE",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "ATGE"
+    },
+    {
+        "actSymbol": "ATH",
+        "securityName": "Athene Holding Ltd. Class A Common Shares",
+        "exchange": "N",
+        "cqsSymbol": "ATH",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "ATH"
+    },
+    {
+        "actSymbol": "ATH$A",
+        "securityName": "Athene Holding Ltd. Depositary Shares, Each Representing a 1/1,000th Interest in a 6.35% Fixed-to-Floating Rate Perpetual Non-Cumulative Preference Share, Series A",
+        "exchange": "N",
+        "cqsSymbol": "ATHpA",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "ATH-A"
+    },
+    {
+        "symbol": "ATHE",
+        "securityName": "Alterity Therapeutics Limited - American Depositary Shares",
+        "marketCategory": "S",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "actSymbol": "ATHM",
+        "securityName": "Autohome Inc. American Depositary Shares, each representing one class A ordinary share.",
+        "exchange": "N",
+        "cqsSymbol": "ATHM",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "ATHM"
+    },
+    {
+        "symbol": "ATHX",
+        "securityName": "Athersys, Inc. - Common Stock",
+        "marketCategory": "S",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "actSymbol": "ATI",
+        "securityName": "Allegheny Technologies Incorporated Common Stock",
+        "exchange": "N",
+        "cqsSymbol": "ATI",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "ATI"
+    },
+    {
+        "symbol": "ATIF",
+        "securityName": "ATIF Holdings Limited - Ordinary Shares",
+        "marketCategory": "S",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "symbol": "ATIS",
+        "securityName": "Attis Industries Inc. - Common Stock",
+        "marketCategory": "S",
+        "testIssue": "N",
+        "financialStatus": "E",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "symbol": "ATISW",
+        "securityName": "Attis Industries Inc. - Warrants",
+        "marketCategory": "S",
+        "testIssue": "N",
+        "financialStatus": "E",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "actSymbol": "ATKR",
+        "securityName": "Atkore International Group Inc. Common Stock",
+        "exchange": "N",
+        "cqsSymbol": "ATKR",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "ATKR"
+    },
+    {
+        "symbol": "ATLC",
+        "securityName": "Atlanticus Holdings Corporation - Common Stock",
+        "marketCategory": "Q",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "symbol": "ATLO",
+        "securityName": "Ames National Corporation - Common Stock",
+        "marketCategory": "S",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "actSymbol": "ATMP",
+        "securityName": "Barclays ETN Plus Select MLP",
+        "exchange": "Z",
+        "cqsSymbol": "ATMP",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "ATMP"
+    },
+    {
+        "symbol": "ATNI",
+        "securityName": "ATN International, Inc. - Common Stock",
+        "marketCategory": "Q",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "actSymbol": "ATNM",
+        "securityName": "Actinium Pharmaceuticals, Inc. (Delaware) Common Stock",
+        "exchange": "A",
+        "cqsSymbol": "ATNM",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "ATNM"
+    },
+    {
+        "symbol": "ATNX",
+        "securityName": "Athenex, Inc. - Common Stock",
+        "marketCategory": "Q",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "actSymbol": "ATO",
+        "securityName": "Atmos Energy Corporation Common Stock",
+        "exchange": "N",
+        "cqsSymbol": "ATO",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "ATO"
+    },
+    {
+        "symbol": "ATOM",
+        "securityName": "Atomera Incorporated - Common Stock",
+        "marketCategory": "S",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "symbol": "ATOS",
+        "securityName": "Atossa Genetics Inc. - Common Stock",
+        "marketCategory": "S",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "actSymbol": "ATR",
+        "securityName": "AptarGroup, Inc. Common Stock",
+        "exchange": "N",
+        "cqsSymbol": "ATR",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "ATR"
+    },
+    {
+        "symbol": "ATRA",
+        "securityName": "Atara Biotherapeutics, Inc. - Common Stock",
+        "marketCategory": "Q",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "symbol": "ATRC",
+        "securityName": "AtriCure, Inc. - Common Stock",
+        "marketCategory": "G",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "symbol": "ATRI",
+        "securityName": "Atrion Corporation - Common Stock",
+        "marketCategory": "Q",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "symbol": "ATRO",
+        "securityName": "Astronics Corporation - Common Stock",
+        "marketCategory": "Q",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "symbol": "ATRS",
+        "securityName": "Antares Pharma, Inc. - Common Stock",
+        "marketCategory": "S",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "symbol": "ATSG",
+        "securityName": "Air Transport Services Group, Inc - Common Stock",
+        "marketCategory": "Q",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "actSymbol": "ATTO",
+        "securityName": "Atento S.A. Ordinary Shares",
+        "exchange": "N",
+        "cqsSymbol": "ATTO",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "ATTO"
+    },
+    {
+        "actSymbol": "ATU",
+        "securityName": "Actuant Corporation Common Stock",
+        "exchange": "N",
+        "cqsSymbol": "ATU",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "ATU"
+    },
+    {
+        "actSymbol": "ATUS",
+        "securityName": "Altice USA, Inc. Class A Common Stock",
+        "exchange": "N",
+        "cqsSymbol": "ATUS",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "ATUS"
+    },
+    {
+        "actSymbol": "ATV",
+        "securityName": "Acorn International, Inc. ADS",
+        "exchange": "N",
+        "cqsSymbol": "ATV",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "ATV"
+    },
+    {
+        "symbol": "ATVI",
+        "securityName": "Activision Blizzard, Inc - Common Stock",
+        "marketCategory": "Q",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "symbol": "ATXI",
+        "securityName": "Avenue Therapeutics, Inc. - Common Stock",
+        "marketCategory": "S",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "actSymbol": "AU",
+        "securityName": "AngloGold Ashanti Limited Common Stock",
+        "exchange": "N",
+        "cqsSymbol": "AU",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "AU"
+    },
+    {
+        "symbol": "AUB",
+        "securityName": "Atlantic Union Bankshares Corporation - Common Stock",
+        "marketCategory": "Q",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "symbol": "AUBN",
+        "securityName": "Auburn National Bancorporation, Inc. - Common Stock",
+        "marketCategory": "G",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "symbol": "AUDC",
+        "securityName": "AudioCodes Ltd. - Ordinary Shares",
+        "marketCategory": "Q",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "actSymbol": "AUG",
+        "securityName": "Auryn Resources Inc. Common Shares",
+        "exchange": "A",
+        "cqsSymbol": "AUG",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "AUG"
+    },
+    {
+        "actSymbol": "AUMN",
+        "securityName": "Golden Minerals Company Common Stock",
+        "exchange": "A",
+        "cqsSymbol": "AUMN",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "AUMN"
+    },
+    {
+        "actSymbol": "AUO",
+        "securityName": "AU Optronics Corp American Depositary Shares",
+        "exchange": "N",
+        "cqsSymbol": "AUO",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "AUO"
+    },
+    {
+        "symbol": "AUPH",
+        "securityName": "Aurinia Pharmaceuticals Inc - Common Shares",
+        "marketCategory": "G",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "actSymbol": "AUSF",
+        "securityName": "Global X Funds Global X Adaptive U.S. Factor ETF",
+        "exchange": "P",
+        "cqsSymbol": "AUSF",
+        "etf": "Y",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "AUSF"
+    },
+    {
+        "symbol": "AUTL",
+        "securityName": "Autolus Therapeutics plc - American Depositary Share",
+        "marketCategory": "Q",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "symbol": "AUTO",
+        "securityName": "AutoWeb, Inc. - Common Stock",
+        "marketCategory": "S",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "actSymbol": "AUY",
+        "securityName": "Yamana Gold Inc. Ordinary Shares (Canada)",
+        "exchange": "N",
+        "cqsSymbol": "AUY",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "AUY"
+    },
+    {
+        "actSymbol": "AVA",
+        "securityName": "Avista Corporation Common Stock",
+        "exchange": "N",
+        "cqsSymbol": "AVA",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "AVA"
+    },
+    {
+        "actSymbol": "AVAL",
+        "securityName": "Grupo Aval Acciones y Valores S.A. ADR (Each representing 20 preferred shares)",
+        "exchange": "N",
+        "cqsSymbol": "AVAL",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "AVAL"
+    },
+    {
+        "symbol": "AVAV",
+        "securityName": "AeroVironment, Inc. - Common Stock",
+        "marketCategory": "Q",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "actSymbol": "AVB",
+        "securityName": "AvalonBay Communities, Inc. Common Stock",
+        "exchange": "N",
+        "cqsSymbol": "AVB",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "AVB"
+    },
+    {
+        "symbol": "AVCO",
+        "securityName": "Avalon GloboCare Corp. - Common Stock",
+        "marketCategory": "S",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "actSymbol": "AVD",
+        "securityName": "American Vanguard Corporation Common Stock ($0.10 Par Value)",
+        "exchange": "N",
+        "cqsSymbol": "AVD",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "AVD"
+    },
+    {
+        "symbol": "AVDL",
+        "securityName": "Avadel Pharmaceuticals plc - American Depositary Shares each representing one Ordinary Share",
+        "marketCategory": "G",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "symbol": "AVDR",
+        "securityName": "Avedro, Inc - Common Stock",
+        "marketCategory": "G",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "symbol": "AVEO",
+        "securityName": "AVEO Pharmaceuticals, Inc. - Common Stock",
+        "marketCategory": "S",
+        "testIssue": "N",
+        "financialStatus": "D",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "symbol": "AVGO",
+        "securityName": "Broadcom Inc. - Common Stock",
+        "marketCategory": "Q",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "symbol": "AVGR",
+        "securityName": "Avinger, Inc. - Common Stock",
+        "marketCategory": "S",
+        "testIssue": "N",
+        "financialStatus": "D",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "actSymbol": "AVH",
+        "securityName": "Avianca Holdings S.A. American Depositary Shares (Each representing 8 preferred Shares)",
+        "exchange": "N",
+        "cqsSymbol": "AVH",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "AVH"
+    },
+    {
+        "symbol": "AVID",
+        "securityName": "Avid Technology, Inc. - Common Stock",
+        "marketCategory": "Q",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "actSymbol": "AVK",
+        "securityName": "Advent Claymore Convertible Securities and Income Fund",
+        "exchange": "N",
+        "cqsSymbol": "AVK",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "AVK"
+    },
+    {
+        "actSymbol": "AVLR",
+        "securityName": "Avalara, Inc. Common Stock",
+        "exchange": "N",
+        "cqsSymbol": "AVLR",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "AVLR"
+    },
+    {
+        "actSymbol": "AVNS",
+        "securityName": "Avanos Medical, Inc. Common Stock",
+        "exchange": "N",
+        "cqsSymbol": "AVNS",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "AVNS"
+    },
+    {
+        "symbol": "AVNW",
+        "securityName": "Aviat Networks, Inc. - Common Stock",
+        "marketCategory": "Q",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "actSymbol": "AVP",
+        "securityName": "Avon Products, Inc. Common Stock",
+        "exchange": "N",
+        "cqsSymbol": "AVP",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "AVP"
+    },
+    {
+        "symbol": "AVRO",
+        "securityName": "AVROBIO, Inc. - Common Stock",
+        "marketCategory": "Q",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "symbol": "AVT",
+        "securityName": "Avnet, Inc. - Common Stock",
+        "marketCategory": "Q",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "actSymbol": "AVTR",
+        "securityName": "Avantor, Inc. Common Stock",
+        "exchange": "N",
+        "cqsSymbol": "AVTR",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "AVTR"
+    },
+    {
+        "actSymbol": "AVTR$A",
+        "securityName": "Avantor, Inc. Series A Mandatory Convertible Preferred Stock",
+        "exchange": "N",
+        "cqsSymbol": "AVTRpA",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "AVTR-A"
+    },
+    {
+        "actSymbol": "AVX",
+        "securityName": "AVX Corporation Common Stock",
+        "exchange": "N",
+        "cqsSymbol": "AVX",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "AVX"
+    },
+    {
+        "symbol": "AVXL",
+        "securityName": "Anavex Life Sciences Corp. - Common Stock",
+        "marketCategory": "S",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "actSymbol": "AVY",
+        "securityName": "Avery Dennison Corporation Common Stock",
+        "exchange": "N",
+        "cqsSymbol": "AVY",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "AVY"
+    },
+    {
+        "actSymbol": "AVYA",
+        "securityName": "Avaya Holdings Corp. Common Stock",
+        "exchange": "N",
+        "cqsSymbol": "AVYA",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "AVYA"
+    },
+    {
+        "actSymbol": "AWF",
+        "securityName": "Alliancebernstein Global High Income Fund",
+        "exchange": "N",
+        "cqsSymbol": "AWF",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "AWF"
+    },
+    {
+        "actSymbol": "AWI",
+        "securityName": "Armstrong World Industries Inc Common Stock",
+        "exchange": "N",
+        "cqsSymbol": "AWI",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "AWI"
+    },
+    {
+        "actSymbol": "AWK",
+        "securityName": "American Water Works Company, Inc. Common Stock",
+        "exchange": "N",
+        "cqsSymbol": "AWK",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "AWK"
+    },
+    {
+        "actSymbol": "AWP",
+        "securityName": "Aberdeen Global Premier Properties Fund Common Shares of Beneficial Interest",
+        "exchange": "N",
+        "cqsSymbol": "AWP",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "AWP"
+    },
+    {
+        "actSymbol": "AWR",
+        "securityName": "American States Water Company Common Stock",
+        "exchange": "N",
+        "cqsSymbol": "AWR",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "AWR"
+    },
+    {
+        "symbol": "AWRE",
+        "securityName": "Aware, Inc. - Common Stock",
+        "marketCategory": "G",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "symbol": "AWSM",
+        "securityName": "Cool Holdings Inc. - Common Stock",
+        "marketCategory": "S",
+        "testIssue": "N",
+        "financialStatus": "D",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "actSymbol": "AWTM",
+        "securityName": "Aware Ultra-Short Duration Enhanced Income ETF",
+        "exchange": "P",
+        "cqsSymbol": "AWTM",
+        "etf": "Y",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "AWTM"
+    },
+    {
+        "actSymbol": "AWX",
+        "securityName": "Avalon Holdings Corporation Common Stock",
+        "exchange": "A",
+        "cqsSymbol": "AWX",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "AWX"
+    },
+    {
+        "actSymbol": "AX",
+        "securityName": "Axos Financial, Inc. Common Stock",
+        "exchange": "N",
+        "cqsSymbol": "AX",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "AX"
+    },
+    {
+        "symbol": "AXAS",
+        "securityName": "Abraxas Petroleum Corporation - Common Stock",
+        "marketCategory": "S",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "symbol": "AXDX",
+        "securityName": "Accelerate Diagnostics, Inc. - Common Stock",
+        "marketCategory": "S",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "actSymbol": "AXE",
+        "securityName": "Anixter International Inc. Common Stock",
+        "exchange": "N",
+        "cqsSymbol": "AXE",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "AXE"
+    },
+    {
+        "symbol": "AXGN",
+        "securityName": "Axogen, Inc. - Common Stock",
+        "marketCategory": "S",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "symbol": "AXGT",
+        "securityName": "Axovant Gene Therapies Ltd. - Common Shares",
+        "marketCategory": "Q",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "actSymbol": "AXJL",
+        "securityName": "WisdomTree Asia Pacific ex-Japan Total Dividend Fund",
+        "exchange": "P",
+        "cqsSymbol": "AXJL",
+        "etf": "Y",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "AXJL"
+    },
+    {
+        "actSymbol": "AXJV",
+        "securityName": "iShares Edge MSCI A Min Vol Asia ex Japan ETF",
+        "exchange": "P",
+        "cqsSymbol": "AXJV",
+        "etf": "Y",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "AXJV"
+    },
+    {
+        "actSymbol": "AXL",
+        "securityName": "American Axle & Manufacturing Holdings, Inc. Common Stock",
+        "exchange": "N",
+        "cqsSymbol": "AXL",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "AXL"
+    },
+    {
+        "symbol": "AXLA",
+        "securityName": "Axcella Health Inc. - Common Stock",
+        "marketCategory": "G",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "symbol": "AXNX",
+        "securityName": "Axonics Modulation Technologies, Inc. - Common Stock",
+        "marketCategory": "Q",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "actSymbol": "AXO",
+        "securityName": "Axos Financial, Inc. 6.25% Subordinated Notes Due 2026",
+        "exchange": "N",
+        "cqsSymbol": "AXO",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "AXO"
+    },
+    {
+        "actSymbol": "AXP",
+        "securityName": "American Express Company Common Stock",
+        "exchange": "N",
+        "cqsSymbol": "AXP",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "AXP"
+    },
+    {
+        "actSymbol": "AXR",
+        "securityName": "AMREP Corporation Common Stock",
+        "exchange": "N",
+        "cqsSymbol": "AXR",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "AXR"
+    },
+    {
+        "actSymbol": "AXS",
+        "securityName": "Axis Capital Holdings Limited Common Stock",
+        "exchange": "N",
+        "cqsSymbol": "AXS",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "AXS"
+    },
+    {
+        "actSymbol": "AXS$D",
+        "securityName": "Axis Capital Holdings Limited Preferred Series D (Bermuda)",
+        "exchange": "N",
+        "cqsSymbol": "AXSpD",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "AXS-D"
+    },
+    {
+        "actSymbol": "AXS$E",
+        "securityName": "Axis Capital Holdings Limited Depositary Shares, each representing 1/100th interest in a share of a 5.50% Series E Preferred Shares",
+        "exchange": "N",
+        "cqsSymbol": "AXSpE",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "AXS-E"
+    },
+    {
+        "symbol": "AXSM",
+        "securityName": "Axsome Therapeutics, Inc. - Common Stock",
+        "marketCategory": "G",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "actSymbol": "AXTA",
+        "securityName": "Axalta Coating Systems Ltd. Common Shares",
+        "exchange": "N",
+        "cqsSymbol": "AXTA",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "AXTA"
+    },
+    {
+        "symbol": "AXTI",
+        "securityName": "AXT Inc - Common Stock",
+        "marketCategory": "Q",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "actSymbol": "AXU",
+        "securityName": "Alexco Resource Corp Common Shares (Canada)",
+        "exchange": "A",
+        "cqsSymbol": "AXU",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "AXU"
+    },
+    {
+        "symbol": "AY",
+        "securityName": "Atlantica Yield plc - Ordinary Shares",
+        "marketCategory": "Q",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "actSymbol": "AYI",
+        "securityName": "Acuity Brands, Inc. ",
+        "exchange": "N",
+        "cqsSymbol": "AYI",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "AYI"
+    },
+    {
+        "actSymbol": "AYR",
+        "securityName": "Aircastle Limited Common Stock",
+        "exchange": "N",
+        "cqsSymbol": "AYR",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "AYR"
+    },
+    {
+        "symbol": "AYTU",
+        "securityName": "Aytu BioScience, Inc. - Common Stock",
+        "marketCategory": "S",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "actSymbol": "AYX",
+        "securityName": "Alteryx, Inc. Class A Common Stock",
+        "exchange": "N",
+        "cqsSymbol": "AYX",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "AYX"
+    },
+    {
+        "actSymbol": "AZN",
+        "securityName": "Astrazeneca PLC Common Stock",
+        "exchange": "N",
+        "cqsSymbol": "AZN",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "AZN"
+    },
+    {
+        "actSymbol": "AZO",
+        "securityName": "AutoZone, Inc. Common Stock",
+        "exchange": "N",
+        "cqsSymbol": "AZO",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "AZO"
+    },
+    {
+        "symbol": "AZPN",
+        "securityName": "Aspen Technology, Inc. - Common Stock",
+        "marketCategory": "Q",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "actSymbol": "AZRE",
+        "securityName": "Azure Power Global Limited Equity Shares",
+        "exchange": "N",
+        "cqsSymbol": "AZRE",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "AZRE"
+    },
+    {
+        "symbol": "AZRX",
+        "securityName": "AzurRx BioPharma, Inc. - Common Stock",
+        "marketCategory": "S",
+        "testIssue": "N",
+        "financialStatus": "N",
+        "roundLotSize": "100",
+        "etf": "N",
+        "nextShares": "N"
+    },
+    {
+        "actSymbol": "AZUL",
+        "securityName": "Azul S.A. American Depositary Shares (each representing three preferred shares)",
+        "exchange": "N",
+        "cqsSymbol": "AZUL",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "AZUL"
+    },
+    {
+        "actSymbol": "AZZ",
+        "securityName": "AZZ Inc.",
+        "exchange": "N",
+        "cqsSymbol": "AZZ",
+        "etf": "N",
+        "roundLotSize": "100",
+        "testIssue": "N",
+        "symbol": "AZZ"
+    }
+]

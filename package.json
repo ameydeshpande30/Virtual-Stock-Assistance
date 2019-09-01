@@ -1,0 +1,19 @@
+{
+  "name": "playground",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "csvjson": "^5.1.0",
+    "fuse.js": "^3.4.5",
+    "morgan": "^1.9.1",
+    "sentiment": "^5.0.1"
+  }
+}
