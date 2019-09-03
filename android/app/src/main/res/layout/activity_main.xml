@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+<android.support.v7.widget.Toolbar
+    app:title="StockMe"
+    android:elevation="4dp"
+    android:background="@android:color/white"
+    android:id="@+id/toolbar"
+    android:layout_width="match_parent"
+    android:layout_height="?actionBarSize"/>
+
+    <android.support.v7.widget.RecyclerView
+        android:paddingBottom="72dp"
+        android:layout_marginTop="56dp"
+        android:id="@+id/chats"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+
+
+    <FrameLayout
+        android:padding="8dp"
+        android:id="@+id/frame"
+        android:layout_gravity="bottom"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <ProgressBar
+            android:id="@+id/progress"
+            android:layout_gravity="center"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+    <LinearLayout
+        android:id="@+id/compose_parent"
+        android:background="@drawable/bottom_gradient"
+        android:clipToPadding="false"
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <ImageButton
+            android:onClick="getSpeechInput"
+            android:layout_gravity="bottom"
+            android:foregroundTint="#000000"
+            android:foreground="@drawable/ripple_mic"
+            android:layout_width="48dp"
+            android:layout_height="48dp"
+            android:src="@drawable/ic_ccc"
+            android:background="@drawable/send_btn_bg"
+            android:backgroundTint="@android:color/white"
+            android:elevation="2dp"/>
+        <FrameLayout
+            android:layout_marginStart="8dp"
+            android:layout_weight="1"
+            android:paddingStart="16dp"
+            android:paddingEnd="16dp"
+            android:paddingTop="12dp"
+            android:paddingBottom="12dp"
+            android:elevation="1dp"
+            android:layout_marginEnd="8dp"
+            android:background="@drawable/msg_edit_text_bg"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+            <EditText
+                android:id="@+id/compose_edit_text"
+                android:maxLines="4"
+                android:background="@null"
+                android:hint="Enter a message"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+        </FrameLayout>
+        <ImageButton
+            android:id="@+id/send_btn"
+            android:layout_gravity="bottom"
+            android:foreground="@drawable/send_btn_ripple"
+            android:elevation="2dp"
+            android:src="@drawable/ic_send_black_24dp"
+            android:backgroundTint="#1a73e8"
+            android:background="@drawable/send_btn_bg"
+            android:layout_width="48dp"
+            android:layout_height="48dp" />
+    </LinearLayout>
+    </FrameLayout>
+</android.support.design.widget.CoordinatorLayout>
