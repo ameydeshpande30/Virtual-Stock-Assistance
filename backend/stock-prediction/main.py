@@ -12,8 +12,10 @@ from statsmodels.tsa.arima_model import ARIMAResults
 app = Flask(__name__)
 
 resNflx = ARIMAResults.load('./models/ntflx_sarima.pkl')
-resAMZ = ARIMAResults.load('./models/amzn_sarima.pkl')
-resGOOGL = ARIMAResults.load('./models/google_sarima.pkl')
+# resAMZ = ARIMAResults.load('./models/amzn_sarima.pkl')
+# resGOOGL = ARIMAResults.load('./models/google_sarima.pkl')
+resAMZ = ARIMAResults.load('./models/ntflx_sarima.pkl')
+resGOOGL = ARIMAResults.load('./models/ntflx_sarima.pkl')
 
 @app.route("/<string:name>/")
 def index(name):
