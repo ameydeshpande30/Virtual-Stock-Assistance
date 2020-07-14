@@ -1,5 +1,5 @@
 #for backed run this follwing command
-cd backed
+cd backend
 npm install
 node main.js
 
